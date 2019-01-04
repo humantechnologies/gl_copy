@@ -4,6 +4,7 @@
 ho modificato:
 - greenlight/config/locales/en.yml
 - greenlight/config/application.rb
+- greenlight/app/views/shared/_footer.html.erb
 
 e aggiunto il file:
 greenlight/config/locales/it.yml
