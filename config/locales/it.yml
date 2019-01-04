@@ -73,7 +73,7 @@ en:
   invite_message: "Per invitare qualcuno al meeting, inviagli questo link:"
   landing:
     about: "Sistema di  web conferencing HT. Puoi creare le tue Aule per le lezioni e riunioni, o collegarti ad altre aule in un modo semplice e veloce."
-    welcome: Benvenuti su HT.
+    welcome: Benvenuti su Chiamami.Online
     video: Guarda il tutorial su come usare il sistema di web conferencing
     upgrade: Mostrami come passare a 2.0!
     version: Abbiamo una nuova versione di Greenlight, ma il tuo database non è compatibile.
@@ -167,7 +167,7 @@ en:
       title: Cancella Account
     design:
       not_supported: Personalizzazione al momento non supportata.
-      subtitle: Personalizza HT
+      subtitle: Personalizza Chiamami.Online
       title: Design
     password:
       confirmation: Conferma nuova Password
