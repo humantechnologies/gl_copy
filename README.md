@@ -2,8 +2,8 @@
 
 20190104 GT
 ho modificato:
-greenlight/config/locales/en.yml
-greenlight/config/application.rb
+- greenlight/config/locales/en.yml
+- greenlight/config/application.rb
 
 e aggiunto il file:
 greenlight/config/locales/it.yml
