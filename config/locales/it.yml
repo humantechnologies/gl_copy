@@ -87,6 +87,7 @@ en:
     fr: French
     it: Italiano
     pt-br: Portuguese (Brazil)
+    ru: Russian
   ldap_error: Non riesco a connettemri al LDAP server. Per favore verifica la tua configurazione LDAP nel env file e assicurati che il tuo server sia running.
   login: Entra
   max_concurrent: Raggiunto il massimo numero di sessioni concorrenti!
