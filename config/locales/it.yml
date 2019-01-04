@@ -183,7 +183,7 @@ en:
     title: Registrati
     with: Registrati con %{provider}
   terms:
-    accept: Acceto %{href}
+    accept: Accetto %{href}
     accept_existing: Accetto i termini e le condizioni
     title: Termini e Condizioni
   test_install: >
