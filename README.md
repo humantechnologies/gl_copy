@@ -1,4 +1,4 @@
-# Greenlight fork for customisation for HT webhub
+# Greenlight fork customised for HT webhub
 
 Is a simple front-end interface for your BigBlueButton server. It provides a minimalistic web-based application that allows users to:
 
