@@ -1,0 +1,195 @@
+# BigBlueButton open source conferencing system - http://www.bigbluebutton.org/.
+#
+# Copyright (c) 2018 BigBlueButton Inc. and by respective authors (see below).
+#
+# This program is free software; you can redistribute it and/or modify it under the
+# terms of the GNU Lesser General Public License as published by the Free Software
+# Foundation; either version 3.0 of the License, or (at your option) any later
+# version.
+#
+# BigBlueButton is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License along
+# with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
+
+# Italian (it) locale.
+
+en:
+  activerecord:
+    attributes:
+      user:
+        accepted_terms: "Termini e Condizioni"
+  bigbluebutton: BigBlueButton
+  bigbluebutton_exception: Oops, errore inziando il meeting!
+  cancel: Indietro
+  copy: Copia
+  delete: Cancella
+  delivery_error: Error nella spedizione della email. Contattare un amministratore!
+  docs: Documentazione
+  email: Email
+  enter_your_name: Inserisci il tuo Nome!
+  errors:
+    internal:
+      message: Oh no! Qualcosa è andato storto.
+      help: Errore registrato, daremo una occhiata!
+    migration_error:
+      contact_admin: Se non sei un amministratore, per favore contattane uno.
+      continue: voglio continuare ad usare la versione 1.0.
+      notice: >
+        Greenlight segnala un errore di migrazione del database.<br>
+        Questo potrebbe dipendere dal fatto che non hai fatto lo upgrade a Greenlight 2.0.
+      upgrade: Mostrami come fare un upgrade a 2.0!
+      version: Abbiamo rilasciato una nuova versione di Greenlight, ma il tuo database non è compatibile.
+    not_found:
+      message: Whoops! Sembra che non lo trovo.
+      help: E' possibile che sia stato rimosso?
+    title: Errori
+    unprocessable:
+      message: Oops! richiesta non processabile.
+      help: Sfortunatamente non è una richiesta valida.
+  features:
+    title: Funzioni
+    rooms: Aule Personalizzate
+    recordings: Gestione Registrazione
+    designs: Designs Personalizzato
+    authentication: Autenticazione Utente
+  footer:
+    powered_by: Powered by %{href}.
+  go_back: Torna indietro
+  greenlight: Greenlight
+  header:
+    create_room: Crea Nuova Aula
+    dropdown:
+      help: Serve Aiuto?
+      home: Home Room
+      settings: Impostazioni
+      signout: Esci
+  home_room: Home Room
+  info_update_success: Informazione aggiornata con successo.
+  invalid_credentials: Login fallito, credenziali non valide. le hai inserite correttamente?
+  invalid_login_method: Login fallito per account mismatch. Devi collegarti con omniauth.
+  invite_message: "Per invitare qualcuno al meeting, inviagli questo link:"
+  landing:
+    about: "Sistema di  web conferencing HT. Puoi creare le tue Aule per le lezioni e riunioni, o collegarti ad altre aule in un modo semplice e veloce."
+    welcome: Benvenuti su HT.
+    video: Guarda il tutorial su come usare il sistema di web conferencing
+    upgrade: Mostrami come passare a 2.0!
+    version: Abbiamo una nuova versione di Greenlight, ma il tuo database non è compatibile.
+  language_options:
+    default: Default (linguaggio del browser)
+    ar: Arabic
+    de: German
+    el: Greek
+    en: English
+    es: Spanish
+    fr: French
+    it: Italiano
+    pt-br: Portuguese (Brazil)
+  ldap_error: Non riesco a connettemri al LDAP server. Per favore verifica la tua configurazione LDAP nel env file e assicurati che il tuo server sia running.
+  login: Entra
+  max_concurrent: Raggiunto il massimo numero di sessioni concorrenti!
+  modal:
+    create_room:
+      auto_join: Collegami automaticamente alla Aula.
+      free_delete: Puoi cancellare questa Aula in ogni momento.
+      name_placeholder: Inserisci un nome per l'Aula...
+      not_blank: Il nome della Aula non può essere blank.
+      title: Crea una Nuova Aula
+    delete_account:
+      confirm: Sei sicuro di voler cancellatre il tuo account?
+      delete: Si, cancella il mio account.
+      keep: No, Terrò il mio account.
+      warning: Questa decisione è definitiva. Tu <b>non</b> potrai recuperare i dati associati.
+    delete_room:
+      confirm: Sei sicuro di voler cancellare %{room}?
+      delete: Si, cancella questa AUla.
+      keep: Ripensandoci, la mantengo.
+      warning: Tu <b>non</b> potrai recuperare questa Aula e nessuna delle registrazioni associate.
+    login:
+      or: o
+      with: Entra con %{provider}
+    rename_recording:
+
+    rename_room:
+      name_placeholder: Inserisci un nuovo nome per l'Aula...
+  name_update_success: Nome Aula cambiato!
+  omniauth_error: Errore durante la autenticazione con omniauth. Contatta un amministratore!
+  password: Password
+  provider:
+    google: Google
+    microsoft_office365: Office 365
+    twitter: Twitter
+  recording:
+    email: Registrazione Email
+    no_recordings: Questa Aula non ha %{inject}registrazioni.
+    no_matched_recordings: Nessuna %{inject} registrazione per questa ricerca.
+    recorded_on: Registrato il %{date}
+    table:
+      name: Nome
+      thumbnails: Thumbnails
+      length: Lunghezza
+      users: Utenti
+      visibility: Visibilità
+      formats: Formati
+    visibility:
+      public: Pubblica
+      unlisted: Unlisted
+  rename: Rinomina
+  room:
+    invited: Sei stato invitato a paertecipare
+    invite_participants: Invita Partecipanti
+    join: Entra
+    last_session: Ultima sessione il %{session}
+    owner: Proprietario
+    no_sessions: Questa Aula non ha sessioni ancora!
+    recordings: Registrazioni
+    sessions: Sessioni
+    settings: Impostazioni Aula
+    start: Inizia
+    wait:
+      message: Oops! Il meeting non è ancora cominciato.
+      auto: Sarai collegato automaticamente quanto il meeting inizia.
+  settings:
+    account:
+      fullname: Nome Completo
+      language: Lingua
+      provider: Provider
+      image: Immagine
+      image_url: URL immagine profilo
+      subtitle: Aggiorna le info del tuo Account
+      title: Account Info
+    delete:
+      button: Si, voglio cancellare il mio my account.
+      disclaimer: Se cancelli il tuo account, <b>NON</b> puoi recuperarlo. Tutte le informazioni che riguardano il tuo account, incluso le impostazioni, Aule, and registrazioni saranno rimosse.
+      subtitle: Account cancellato definitivamente
+      title: Cancella Account
+    design:
+      not_supported: Personalizzazione al momento non supportata.
+      subtitle: Personalizza HT
+      title: Design
+    password:
+      confirmation: Conferma nuova Password
+      new: Nuova Password
+      old: Vecchia Password
+      subtitle: Cambia la tua Password
+      title: Password
+    title: Impostazioni
+  signup:
+    password_confirm: Conferma Password
+    subtitle: Crea un Account
+    title: Registrati
+    with: Registrati con %{provider}
+  terms:
+    accept: Acceto %{href}
+    accept_existing: Accetto i termini e le condizioni
+    title: Termini e Condizioni
+  test_install: >
+    Questa installazione usa un testing server pre-configurato, dovresti rimpiazzarlo con il tuo.
+    Per dettagli, guarda %{href}.
+  update: Aggiorna
+  verify:
+    title: Verifica la tua email
+    resend: Rimanda la email di verifica
+    accept: Verifica
