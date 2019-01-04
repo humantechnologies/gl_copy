@@ -9,6 +9,8 @@ ho modificato:
 e aggiunto il file:
 - greenlight/config/locales/it.yml
 
+
+
 20190103 MM
 ho modificato:
 - greenlight/app/views/main/index.html.erb
