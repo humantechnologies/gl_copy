@@ -79,8 +79,8 @@ en:
   invite_message: "To invite someone to the meeting, send them this link:"
   landing:
     about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    welcome: Welcome to Chiamami.Online
+    video: Watch our tutorial on using Chiamami.Online
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_options:
@@ -91,6 +91,7 @@ en:
     en: English
     es: Spanish
     fr: French
+    it: Italiano
     pt-br: Portuguese (Brazil)
     ru: Russian
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
