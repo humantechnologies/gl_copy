@@ -9,6 +9,10 @@ ho modificato:
 e aggiunto il file:
 greenlight/config/locales/it.yml
 
+20190103 MM
+ho modificato:
+- greenlight/app/views/shared/index.html.erb
+ma solo per prova, si può tranquillamente ritornare indietro
 
 # ===========================================
 
