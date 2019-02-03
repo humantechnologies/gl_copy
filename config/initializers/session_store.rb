@@ -2,4 +2,6 @@
 
 # Be sure to restart your server when you modify this file.
 
-Rails.application.config.session_store :cookie_store, key: '_greenlight-2_0_session'
+# GT20190119 Rails.application.config.session_store :cookie_store, key: '_greenlight-2_0_session'
+Rails.application.config.session_store :cookie_store, key: 'chiamami_online_session', expire_after: 30.days
+
