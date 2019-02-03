@@ -26,7 +26,7 @@ class UsersController < ApplicationController
     return unless Rails.configuration.allow_user_signup
 
     @user = User.new(user_params)
-    @user.provider = "greenlight"
+    @user.provider = "greenlight"  
 
     if Rails.configuration.enable_email_verification && @user.save
       begin
