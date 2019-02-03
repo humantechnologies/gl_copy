@@ -21,21 +21,56 @@
   <% end %>
 <% end %>
 
-<div class="background">
+<style>
+
+
+.homebackground{
+ background-color: #F5F7FB;
+ background: url("strumenti_per_videoconferenze.jpg"); 
+ background-repeat: no-repeat center top;
+ background-size: cover;
+ background-position: center;
+ width: 100%; height: 100%; height: auto; top: 0; left: 0;
+ z-index: -1;
+ }
+/*
+.btn-outline-primary_inhome_ {
+    color: #fd7822;
+    background-color: fd7822;
+    background-image: none;
+    border-color: #fd7822;
+}*/
+
+.btn-outline-primary_inhome {
+    color: #fff;
+    background-color: #fd7822;
+    border-color: #fd7822;
+}
+
+.btn_inhome {
+     font-size: 1.2125rem;
+}
+
+.bg-whyfeats  {
+    background-color: #fd7822;  !important;
+}
+
+</style>
+
+<div class="homebackground">
   <div class="container pt-9 pb-8">
     <div class="row">
       <div class="col-md-12 col-sm-12 text-center">
-        <h1 id="main-text" class="display-4 mb-4"> 
-          CIAO!
+        <h1 id="main-text" class="display-4 mb-4" style="color: #467fcf;"> 
+      
           <%= t("landing.welcome").html_safe %></h1>
 
-<!-- VEDIAMO SE SI VEDE QUALCOSA -->        
-        <h1 id="nuovo-testo" class="display-4 mb-4">
-            questa dovrebbe essere una modifica</h1>
-
-        <p class="lead offset-lg-2 col-lg-8 col-sm-12 "><%= t("landing.about", href: link_to(t("greenlight"), "https://bigbluebutton.org/2018/07/09/greenlight-2-0/", target: "_blank")).html_safe %></p>
-        <%= link_to "https://youtu.be/Hso8yLzkqj8", target: "_blank" do %>
-          <h4><%= t("landing.video") %> <i class="far fa-play-circle ml-1"></i></h4>
+          <h2 id="meetings" class="display-4 mb-6" style="color: #467fcf;">
+            <%= t("landing.meetings").html_safe %></h2>
+        
+        <p class="lead offset-lg-2 col-lg-8 col-sm-12 display-4" style="color:#f8521b; font-weight:600"><%= t("landing.about", href: link_to(t("greenlight"), "/help", target: "")).html_safe %></p>
+       <%= link_to "#info", target: "" do %>      
+          <h4><%= t("landing.video") %></h4>
         <% end %>
       </div>
 
