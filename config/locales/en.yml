@@ -24,6 +24,10 @@ en:
   bigbluebutton: BigBlueButton
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
+  cookies_eu:
+    cookies_text: "Cookies help us deliver our services. To improve your experience, we use cookies to remember log-in details and provide secure log-in, collect statistics to optimize site functionality, and deliver content tailored to your interests. By using our services, you agree to our use of cookies."
+    learn_more: "Learn more"
+    ok: "OK"
   copy: Copy
   delete: Delete
   delivery_error: An error occured during email delivery. Please contact an administrator!
@@ -39,10 +43,10 @@ en:
       contact_admin: If you are not an administrator, please contact one.
       continue: I'd like to stay using 1.0.
       notice: >
-        Greenlight encountered a database migration error.<br>
-        This may be because you haven't updated to Greenlight 2.0.
+        Chiamami encountered a database migration error.<br>
+        This may be because you haven't updated to Chiamami 2.0.
       upgrade: Show me how to upgrade to 2.0!
-      version: We've released a new version of Greenlight, but your database isn't compatible.
+      version: We've released a new version of Chiamami, but your database isn't compatible.
     not_found:
       message: Whoops! Looks like we can't find that.
       help: Is it possible its been removed?
@@ -52,19 +56,38 @@ en:
       help: Unforunately this isn't a valid request.
   expired_reset_token: Password reset link has expired!
   features:
-    title: Features
-    rooms: Personalized Rooms
-    recordings: Recording Management
-    designs: Custom Designs
-    authentication: User Authentication
+    title: Main Features
+    subtitle: Free access to a personal room for your meeting. Invite your friends sharing a simple link.
+    subtitle2: An essential tool for teachers and students who want to organize private lessons, repetitions or classrooms, for distance learning professionals, for organizing courses and webinars, for small and medium-sized companies business meetings.
+    rooms: Lesson Rooms
+    roomsdetails: Online Lessons, Homework and Student Support
+    recordings: Meetings
+    recordingsdetails: Company and Professional Meetings
+    designs: Video Webinars
+    designdetails: Video Courses, Training and Group Lessons
+    authentication: Screen Sharing
+    authdetails: Virtual Dashboard and Education Material Sharing
+    whytitle: Why use the Virtual Classrooms of Chiamami.Online
+    whypara1: If you are a teacher, a school or a company that provides training in the virtual classrooms of Chiamami.online you can host your individual and group lessons, organize webinars and seminars for students and professionals without making the participants move from home, school or own workstation.
+    whypara2: If you manage a company you can organize meetings or provide training and refresher courses to your employees directly in their location, even in different locations around the country, with a considerable optimization of execution times and reduction of costs for travel and logistics.
+    whypara3: You can also use our services to provide online technical support to the customers of your business, allowing you to connect by videoconference to request information and talk with an expert of your company, remotely anticipating the solution of some problems or allowing a more targeted intervention on the field.
+    whypara4: Chiamami.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: "Copyright 2019:    %{href}."
+    ht: "HT Tecnologie Umanistiche s.r.l. - cf/p.iva n. iscrizione cciia 02160600991"
+    mail: info@tecnologie-umanistiche.it
+    phone: "+39 3357499489"
+    terms: Terms of Use
+    privacy: Privacy Policy
+    cookies: Cookies
+    faq: FAQ
+    contacts: Contacts
   forgot_password:
     subtitle: Forgot Password
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Chiamami
   header:
     create_room: Create Room
     dropdown:
@@ -73,16 +96,28 @@ en:
       settings: Settings
       signout: Sign out
   home_room: Home Room
+  ht: HT - Human Tecnologies
+  info:
+     contatti: Contacts
+     cookies: Cookies
+     faq: FAQ (Frequently Asked Questions)
+     help: Instructions
+     informazioni: Information
+     prezzi: Plans and Prices
+     privacy: Privacy Policy
+     termini: Term of Use
+     lorem: Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
   info_update_success: Information successfully updated.
   invalid_credentials: Login failed due to invalid credentials. Are you sure you entered them correctly?
   invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
   invite_message: "To invite someone to the meeting, send them this link:"
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "The Italian web conferencing and education server. You can create your own rooms to host sessions, or join your friends using a short and convenient link."
     welcome: Welcome to Chiamami.Online
-    video: Watch our tutorial on using Chiamami.Online
+    meetings: Meeting and Lessons Online
+    video: Discover Chiamami.Online features
     upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
+    version: We've released a new version of Chiamami, but your database isn't compatible.
   language_options:
     default: Default (browser language)
     ar: Arabic
@@ -97,6 +132,17 @@ en:
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
   max_concurrent: The maximum number of concurrent sessions allowed has been reached!
+  meta:
+     hometitle: "Chiamami.Online, Online Meetings and Lessons"
+     homedescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     homekeywords: "meetings, lessons, online lessons, videoconferences, webinar, e-learning, teachers, students, virtual rooms, screen sharing"
+     staticpagestitle: "Chiamami.Online"
+     staticpagesdescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     staticpageskeywords: "meetings, lessons, online lessons, videoconferences, webinar, virtual rooms, screen sharing"
+     title: "Chiamami.Online"
+     description: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     keywords: "meetings, online lessons, videoconferences, webinar"
+     language: en
   modal:
     create_room:
       auto_join: Automatically join me into the room.
@@ -184,7 +230,7 @@ en:
       title: Delete Account
     design:
       not_supported: Customization not currently supported.
-      subtitle: Customize Greenlight
+      subtitle: Customize Chiamami
       title: Design
     password:
       confirmation: New Password Confirmation
@@ -196,7 +242,7 @@ en:
   signup:
     password_confirm: Password Confirmation
     subtitle: Create an Account
-    title: Sign up
+    title: Sign up free
     with: Sign up with %{provider}
   terms:
     accept: I accept the %{href}
