@@ -14,5 +14,30 @@
 %>
 
 <footer class="footer pt-3">
-  <p class="text-center mb-1"><%= t("footer.powered_by", href: link_to(t("greenlight"), "http://www.tecnologie-umanistiche.it/", target: "_blank")).html_safe %></p>
+  <p class="text-center mb-1">
+     <%= link_to(t("footer.ht"), "http://www.tecnologie-umanistiche.it/", target: "_blank", :rel => "nofollow").html_safe %>&nbsp;&nbsp;-&nbsp;&nbsp;
+     <i class="fas fa-envelope fa-1x"></i>&nbsp;&nbsp;<a href="mailto:info@tecnologie-umanistiche.it" rel="nofollow"><%= t("footer.mail") %></a>
+     &nbsp;&nbsp;&nbsp;<i class="fas fa-headphones fa-1x"></i>&nbsp;&nbsp;<%= t("footer.phone")%>
+  </p>
+
+  <p class="text-center mb-1">
+     <%= link_to(t("footer.terms"), "/terms").html_safe %>
+     &nbsp;|&nbsp;
+     <%= link_to(t("footer.privacy"), "/privacy").html_safe %>
+     &nbsp;|&nbsp;
+     <%= link_to(t("footer.cookies"), "/cookies").html_safe %>
+     &nbsp;|&nbsp;
+     <%= link_to(t("footer.faq"), "/faq").html_safe %>
+     &nbsp;|&nbsp;
+     <%= link_to(t("footer.contacts"), "/contatti").html_safe %>
+      
+     <i class="fab fa-google-plus-square fa-2x mr-4 mb-3" style="float:right"></i>
+     <i class="fab fa-twitter-square fa-2x mr-1 mb-3" style="float:right"></i>
+     <i class="fab fa-facebook-square fa-2x mr-1 mb-3" style="float:right"></i>
+     <i class="fab fa-whatsapp-square fa-2x mr-1 mb-3" style="float:right"></i>
+     <i class="fas fa-envelope-square fa-2x mr-1 mb-3" style="float:right"></i>
+  </p> 
+
+
+  
 </footer>

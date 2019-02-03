@@ -16,26 +16,77 @@
 
 <div class="container mt-8 mb-6 text-center">
 
-  <h2 class="mb-6">Greenlight <%= t("features.title") %></h2>
+  <h2 class="mb-6"><%= t("features.title") %></h2>
+  
+  <a id="info">
+  
+  <% if Rails.configuration.omniauth_bn_launcher %>
+            <%= link_to t("login"), omniauth_login_url(:bn_launcher), :rel => "nofollow", :class => "btn btn-pill btn-outline-primary mx-2" %>
+  <% elsif Rails.configuration.omniauth_ldap %>
+						<%= link_to t("login"), omniauth_login_url(:ldap), :rel => "nofollow", :class => "btn btn-pill btn-outline-primary mx-2" %>
+	<% else %>
+            <%= link_to t("login"), "#loginModal", :rel => "nofollow", :class => "btn btn-pill btn-outline-primary_inhome btn_inhome mx-2 mb-2", "data-toggle": "modal" %>
+   <% end %>
 
-  <div class="row feature-stamp">
+	<% if allow_user_signup? %>
+						<%= link_to t("signup.title"), signup_path, :rel => "nofollow", :class => "btn btn-pill btn-outline-primary_inhome btn_inhome mx-2 mb-2" %>
+  <% end %>
+  
+  <p class="lead offset-lg-2 col-lg-8 col-sm-12 "></p>
+  <p class="lead offset-lg-2 col-lg-8 col-sm-12 display-4"><%= t("features.subtitle") %><br><%= t("features.subtitle2") %></p>
+  <p class="lead offset-lg-2 col-lg-8 col-sm-12 "></p>
+  
+
+
+  <div class="row feature-stamp mb-4">
     <div class="col-lg-3 col-md-6">
       <div class="feature-item">
         <div class="stamp bg-primary"><i class="fas fa-chalkboard-teacher fa-2x"></i></div>
         <h4 class="mt-4"><%= t("features.rooms") %></h4>
+        <p class="lead col-sm-12 display-4"><%= t("features.roomsdetails") %></p>
       </div>
     </div>
     <div class="col-lg-3 col-md-6">
-      <span class="stamp bg-primary"><i class="fas fa-film fa-2x"></i></span>
+      <span class="stamp bg-primary"><i class="fas fa-users fa-2x"></i></span>
       <h4 class="mt-4"><%= t("features.recordings") %></h4>
+        <p class="lead col-sm-12 display-4"><%= t("features.recordingsdetails") %></p>
     </div>
     <div class="col-lg-3 col-md-6">
-      <span class="stamp bg-primary"><i class="fas fa-pencil-alt fa-2x"></i></span>
+      <span class="stamp bg-primary"><i class="fas fa-headphones fa-2x"></i></span>
       <h4 class="mt-4"><%= t("features.designs") %></h4>
+        <p class="lead col-sm-12 display-4"><%= t("features.designdetails") %></p>
     </div>
     <div class="col-lg-3 col-md-6">
-      <span class="stamp bg-primary"><i class="fas fa-door-open fa-2x"></i></span>
+      <span class="stamp bg-primary"><i class="fas fa-desktop fa-2x"></i></span>
       <h4 class="mt-4"><%= t("features.authentication") %></h4>
+        <p class="lead col-sm-12 display-4"><%= t("features.authdetails") %></p>
     </div>
   </div>
+  
+
+
+  
+  <h3 class="mt-8 mb-8"><%= t("features.whytitle") %></h3>
+  
+  <div class="row feature-stamp mb-4">
+    <div class="col-lg-3 col-md-6">
+      <div class="feature-item">
+        <div class="stamp bg-whyfeats"><i class="fas fa-graduation-cap fa-2x"></i></div>
+        <p class="lead col-sm-12 display-4 mt-4"><%= t("features.whypara1") %></p>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+      <span class="stamp bg-whyfeats"><i class="fas fa-user-tie fa-2x"></i></span>
+        <p class="lead col-sm-12 display-4 mt-4"><%= t("features.whypara2") %></p>
+    </div>
+    <div class="col-lg-3 col-md-6">
+      <span class="stamp bg-whyfeats"><i class="fas fa-medkit fa-2x"></i></span>
+        <p class="lead col-sm-12 display-4 mt-4"><%= t("features.whypara3") %></p>
+    </div>
+    <div class="col-lg-3 col-md-6">
+      <span class="stamp bg-whyfeats"><i class="fas fa-piggy-bank fa-2x"></i></span>
+        <p class="lead col-sm-12 display-4 mt-4"><%= t("features.whypara4") %></p>
+    </div>
+  </div>  
+  
 </div>
