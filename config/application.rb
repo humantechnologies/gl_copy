@@ -34,11 +34,12 @@ module Greenlight
     config.exceptions_app = routes
 
     # Configure I18n localization.
+    # GT20190113 aggiunta it nelle available.locales
     config.i18n.available_locales = %w(en pt-br es ar fr de el it ru)
-    config.i18n.default_locale = "it"
+    config.i18n.default_locale = "en"
 
     config.i18n.available_locales.each do |locale|
-      config.i18n.fallbacks[locale] = [locale, :it]
+      config.i18n.fallbacks[locale] = [locale, :en]
     end
 
     # Check if a loadbalancer is configured.
