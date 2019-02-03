@@ -32,9 +32,10 @@
       </div>
     </div>
     <br>
+    <!-- GT20190119 nascosto (preferisco nasconderlo perchè modificarlo impatta diversi punti)  -- >
     <%= f.label t("settings.account.provider"), class: "form-label" %>
     <%= f.text_field :provider, class: "form-control", readonly: "" %>
-    <br>
+    <br>  <-- -->
     <%= f.label t("settings.account.language"), class: "form-label" %>
     <%= f.select :language, language_options, {}, { class: "form-control custom-select" } %>
 
