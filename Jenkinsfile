@@ -1,6 +1,6 @@
 def project = 'ci-cd-for-bn'
-def appName = 'greenlight'
-def greenlightVersion = 'v2'
+def appName = 'ChiamamiOnline'
+def greenlightVersion = 'v1'
 def label = "jenkins-execution-worker-${UUID.randomUUID().toString()}"
 def releaseBuild = env.TAG_NAME && env.TAG_NAME.contains("release")
 
