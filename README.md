@@ -1,24 +1,3 @@
-# Change log
-
-20190104 GT
-ho modificato:
-- greenlight/config/locales/en.yml
-- greenlight/config/application.rb
-- greenlight/app/views/shared/_footer.html.erb
-
-e aggiunto il file:
-- greenlight/config/locales/it.yml
-
-
-
-20190103 MM
-ho modificato:
-- greenlight/app/views/main/index.html.erb
-
-ma è solo una prova, si può tranquillamente ritornare indietro
-
-# ===========================================
-
 # Greenlight fork customised for HT webhub
 
 Is a simple front-end interface for your BigBlueButton server. It provides a minimalistic web-based application that allows users to:
