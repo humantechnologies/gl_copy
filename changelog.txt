@@ -119,3 +119,10 @@ modifica anche il file  config/route.rb
       create      app/assets/javascripts/info.coffee
       invoke    scss
       create      app/assets/stylesheets/info.scss
+      
+      
+aggiunta la directory con i testi delle pagine statiche (uno per pagina)
+config/info/
+
+aggiunto 
+config/terms.md      
