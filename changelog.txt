@@ -1,0 +1,121 @@
+
+modifiche dal 13/01/2019  al 03/02/2019 su versione master
+
+modifiche per la lingua
+config/application.rb    (# Configure I18n localization. aggiunta lingua it)
+config/locales/en.yml    (in inglese sostituito greenlight con Chiamami, aggiunto "it: Italiano" nelle language options dove definito)
+config/locales/*.yml     (in tutte le lingue sostituito greenlight con Chiamami, aggiunto "it: Italiano" nelle language options dove definito, più numerose altre modifiche)
+config/locales/it.yml    (file nuovo per lingua italiana)
+
+config/initialiazers/session_store.rb  (modificato prefisso per i cookies,impostata espiration_time 30 giorni)
+
+config/routes.rb    (modificati percorsi per le pagine statiche del nuovo controller Info)
+
+modifiche alle immagini
+public/favicon.ico                    (sostituita favicon.ico)
+public/riunioni_e_lezioni_online.jpg  (aggiunta immagine per metatag open graphs og:image)
+app/assets/images/bbb_logo.png        (sostituita)
+app/assets/images/logo_with_text.png  (sostituita)
+
+Jenkinsfile               (def appName = 'Chiamami' e def greenlightVersion = 'v1')
+app/controllers/user_controller.rb  (tolto riferimento a greenlight)
+
+modifiche alla grafica e ai link di home page e negli include
+app/views/main/index.html.erb
+app/views/shared/_features.html.erb (rimosso "greenlight", aggiunto paragrafo, modificati box con icone, aggiunto tasto iscrizione)
+app/views/shared/_footer.html.erb (rimosso "greenlight", aggiunto paragrafo)
+app/views/shared/_header.html.erb (rimosso link ad help "greenlight", sostituito con link alla pagina help (da creare))
+ 
+app/views/shared/settings/account.html.erb (tolto il campo "provider", verificare se salva lo stesso i dati. cambiare il provider "greenlight" richiede di modificare più punti e non c'è ragione di mostrarlo all'utente che non può modificarlo )
+
+app/views/users/new.html.erb       (migliorata leggibilità e responsiveness cambiando il div del form, aggiunto mb-2 nei pulsanti per dare margine bottom quando si stringe la pagina)
+
+
+app/views/layouts/application.html.erb  (aggiunti metatags, aggiunto rendering del banner dei cookies, sistemato link ad /info)
+
+
+
+COOKIES: 
+
+aggiunta popup per cookies da https://github.com/infinum/cookies_eu
+
+copiato il contenuto della gem cookies_eu (directories app e lib)
+non copiare config/locales per non sovrascrivere le lingue!
+
+app/asset/javascripts/cookies_eu.js
+app/asset/stylesheets/cookies_eu_scss
+
+app/views/cookies_eu/_consent_banner.html.erb
+app/views/cookies_eu/cookies_info.html.haml
+
+lib/cookies_eu.rb
+lib/cookies_eu/engine.rb
+lib/cookies_eu/version.rb
+lib/generators/cookies_eu/install/install_generator.rb
+
+Gemfile      (aggiunto gem 'cookies_eu')
+Gemfile.lock (aggiunto gem 'cookies_eu')
+
+eseguiti comandi:
+bundle
+bundle exec rails g cookies_eu:install
+
+che causano l'aggiornamento dei file 
+
+app/assets/javascripts/application.js
+app/assets/stylesheets/applications.css
+
+aggiunto rendering del banner in (in modo che sia comune a tutte le pagine)
+app/views/layouts/application.html.erb   
+
+aggiunti i testi per cookies nei file delle lingue 
+(attenzione: non copiare i file dalla gem se no sovrascrivo e lingue)
+
+
+
+
+PAGINE STATICHE:
+
+pagine statiche da generare (usare info se serve un prefisso info/):
+termini_uso
+privacy
+cookies
+prezzi
+informazioni
+help
+faq
+contatti
+
+rails generate controller Info termini privacy cookies prezzi informazioni help faq contatti
+
+modifica anche il file  config/route.rb
+
+      create  app/controllers/info_controller.rb
+       route  get 'info/contatti'
+       route  get 'info/faq'
+       route  get 'info/help'
+       route  get 'info/informazioni'
+       route  get 'info/prezzi'
+       route  get 'info/cookies'
+       route  get 'info/privacy'
+       route  get 'info/termini'
+      invoke  erb
+      create    app/views/info
+      create    app/views/info/termini.html.erb
+      create    app/views/info/privacy.html.erb
+      create    app/views/info/cookies.html.erb
+      create    app/views/info/prezzi.html.erb
+      create    app/views/info/informazioni.html.erb
+      create    app/views/info/help.html.erb
+      create    app/views/info/faq.html.erb
+      create    app/views/info/contatti.html.erb
+      invoke  test_unit
+      create    test/controllers/info_controller_test.rb
+      invoke  helper
+      create    app/helpers/info_helper.rb
+      invoke    test_unit
+      invoke  assets
+      invoke    coffee
+      create      app/assets/javascripts/info.coffee
+      invoke    scss
+      create      app/assets/stylesheets/info.scss
