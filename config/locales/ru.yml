@@ -52,13 +52,19 @@ ru:
     unprocessable:
       message: К сожалению, запрос не обрабатывается.
       help: К сожалению, это неверный запрос.
+    signup:
+       name: name not valid (can't be blank and max 256 chars)
+       email: email not valid (can't be blank, invalid or in use)
+       password: password not valid (min 6 characters)
+       confirm: password confirmation doesn't match password
+       terms: terms and condition shall be accepted
   features:
     title: Возможности
     rooms: Персонализированные комнаты
     recordings: Управление записями
     designs: Изменение внешнего вида
     authentication: Аутентификация пользователей
-    subtitle: Free access to a personal room for your meeting. Invite your friends sharing a simple link.
+    subtitle: "The Italian web conferencing and education server. You can create your own rooms to host sessions, or join your friends using a short and convenient link."
     subtitle2: An essential tool for teachers and students who want to organize private lessons, repetitions or classrooms, for distance learning professionals, for organizing courses and webinars, for small and medium-sized companies business meetings.
     roomsdetails: Online Lessons, Homework and Student Support
     recordingsdetails: Company and Professional Meetings
@@ -69,6 +75,7 @@ ru:
     whypara2: If you manage a company you can organize meetings or provide training and refresher courses to your employees directly in their location, even in different locations around the country, with a considerable optimization of execution times and reduction of costs for travel and logistics.
     whypara3: You can also use our services to provide online technical support to the customers of your business, allowing you to connect by videoconference to request information and talk with an expert of your company, remotely anticipating the solution of some problems or allowing a more targeted intervention on the field.
     whypara4: Chiamami.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
+    share: Share with your friends
   footer:
     powered_by: Работает под управлением %{href}.
     ht: "HT Tecnologie Umanistiche s.r.l. - cf/p.iva n. iscrizione cciia 02160600991"
