@@ -46,7 +46,8 @@ class ApplicationController < ActionController::Base
     I18n.locale = if user && user.language != 'default'
       user.language
     else
-      http_accept_language.language_region_compatible_from(I18n.available_locales)
+      # GT20190204 http_accept_language.language_region_compatible_from(I18n.available_locales)
+      "it"
     end
   end
 
