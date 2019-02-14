@@ -37,7 +37,7 @@ module Greenlight
     # GT20190113 aggiunta it nelle available.locales
     config.i18n.available_locales = %w(en pt-br es ar fr de el it ru)
     config.i18n.default_locale = "en"
-
+    
     config.i18n.available_locales.each do |locale|
       config.i18n.fallbacks[locale] = [locale, :en]
     end
@@ -48,6 +48,10 @@ module Greenlight
     # The default callback url that bn launcher will redirect to
     config.gl_callback_url = ENV["GL_CALLBACK_URL"]
 
+    # Default credentials (test-install.blindsidenetworks.com/bigbluebutton).
+    config.bigbluebutton_endpoint_default = "http://test-install.blindsidenetworks.com/bigbluebutton/api/"
+    config.bigbluebutton_secret_default = "8cd8ef52e8e101574e400365b55e11a6"
+
     # Setup BigBlueButton configuration.
     if config.loadbalanced_configuration
       # Fetch credentials from a loadbalancer based on provider.
@@ -55,9 +59,6 @@ module Greenlight
       config.loadbalancer_secret = ENV["LOADBALANCER_SECRET"]
       config.launcher_secret = ENV["LAUNCHER_SECRET"]
     else
-      # Default credentials (test-install.blindsidenetworks.com/bigbluebutton).
-      config.bigbluebutton_endpoint_default = "http://test-install.blindsidenetworks.com/bigbluebutton/api/"
-      config.bigbluebutton_secret_default = "8cd8ef52e8e101574e400365b55e11a6"
 
       # Use standalone BigBlueButton server.
       config.bigbluebutton_endpoint = ENV["BIGBLUEBUTTON_ENDPOINT"] || config.bigbluebutton_endpoint_default
