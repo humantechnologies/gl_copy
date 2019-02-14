@@ -1,5 +1,37 @@
+version 1.0.4 modifiche dal 04/02/2019 al 14/02/2019 su versione master (greenlight release 2.0.5)
 
-modifiche dal 13/01/2019  al 03/02/2019 su versione master
+app/controllers/application_controller.rb   (impostata "it" come lingua di default)
+
+app/views/main/index.html.erb         (main features)
+app/views/shared/features.html.erb    (main features)
+app/views/users/new.html.erb          (aggiunta background image)
+app/views/shared/_footer.html.erb     (sostituito g+ con linkedin, aggiunti link)
+
+app/models/user.rb                    (aggiunta mail utente obbligatoria nelle regole di validazione, non può essere blank)
+app/views/users/new.html.erb          (messaggi di errore nella lingua corrente, non sempre inglese)
+
+
+immagine del profilo (aggiunta avatar di default)
+nel db è previsto un campo dove mettere l'url della immagine, ma devo capire come caricarla
+app/views/shared/_header.html.erb
+app/views/shared/settings/_account.html.erb
+public/users/user_placeholder.jpg
+
+public/strumenti_per_videoconferenze.jpg
+public/riunioni_e_lezioni_online.jpg
+
+allineamento a versione greenlight 2.0.5
+config/application.rb 
+spec/models/room_spec.rb
+spec/spec_helper.rb  
+
+tutti i file delle lingue
+config/locales/*.yml
+
+changelog.txt
+
+
+version 1.0.3 modifiche dal 13/01/2019  al 03/02/2019 su versione master  (greenlight release 2.0.1)
 
 modifiche per la lingua
 config/application.rb    (# Configure I18n localization. aggiunta lingua it)
