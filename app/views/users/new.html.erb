@@ -13,6 +13,23 @@
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 %>
 
+<style>
+
+.homebackground{
+ background-color: #F5F7FB;
+ background: url("strumenti_per_videoconferenze.jpg"); 
+ background-repeat: no-repeat center top;
+ background-size: cover;
+ background-position: center;
+ width: 100%; height: auto; top: 0; left: 0;
+ z-index: -1;
+ }
+
+
+</style>
+
+<div class="homebackground">
+
 <div class="container">
   <div class="row pt-7">
    <% #GT20190119 migliorata leggibilità e responsiveness cambiando il <div class="col col-4 offset-4"> %> 
@@ -43,22 +60,38 @@
             <div class="form-group">
               <%= f.label t("settings.account.fullname"), class: "form-label" %>
               <%= f.text_field :name, class: "form-control #{form_is_invalid?(@user, :name)}", placeholder: t("settings.account.fullname") %>
-              <div class="invalid-feedback d-block"><%= @user.errors.full_messages_for(:name).first %></div>
+              <div class="invalid-feedback d-block">
+              <% if @user.errors.full_messages_for(:name).first %> 
+              <%= t("errors.signup.name") %> 
+              <% end %>
+              </div>
             </div>
             <div class="form-group">
               <%= f.label t("email"), class: "form-label" %>
               <%= f.text_field :email, class: "form-control #{form_is_invalid?(@user, :email)}", placeholder: t("email") %>
-              <div class="invalid-feedback d-block"><%= @user.errors.full_messages_for(:email).first %></div>
+              <div class="invalid-feedback d-block">
+              <% if @user.errors.full_messages_for(:email).first %>
+              <%= t("errors.signup.email") %> 
+              <% end %>
+               </div>
             </div>
             <div class="form-group">
               <%= f.label t("password"), class: "form-label" %>
               <%= f.password_field :password, class: "form-control #{form_is_invalid?(@user, :password)}", placeholder: t("password") %>
-              <div class="invalid-feedback d-block"><%= @user.errors.full_messages_for(:password).first %></div>
+              <div class="invalid-feedback d-block">
+              <% if @user.errors.full_messages_for(:password).first %>
+              <%= t("errors.signup.password") %> 
+              <% end %>
+              </div>
             </div>
             <div class="form-group">
               <%= f.label t("signup.password_confirm"), class: "form-label" %>
               <%= f.password_field :password_confirmation, class: "form-control #{form_is_invalid?(@user, :password_confirmation)}", placeholder: t("signup.password_confirm") %>
-              <div class="invalid-feedback d-block"><%= @user.errors.full_messages_for(:password_confirmation).first %></div>
+              <div class="invalid-feedback d-block">
+              <% if @user.errors.full_messages_for(:password_confirmation).first %>
+              <%= t("errors.signup.confirm") %> 
+              <% end %>
+              </div>
             </div>
             <% if Rails.configuration.terms %>
               <div class="form-inline">
@@ -67,7 +100,11 @@
                   <span class="custom-switch-indicator"></span>
                 </label>
                 <%= f.label :accepted_terms, t("terms.accept", href: link_to(t("terms.title"), terms_path, target: "_blank", class: "ml-1 text-blue")).html_safe, class: "ml-1" %>
-                <div class="invalid-feedback d-block"><%= @user.errors.full_messages_for(:accepted_terms).first %></div>
+                <div class="invalid-feedback d-block">
+                <% if @user.errors.full_messages_for(:accepted_terms).first %>
+                <%= t("errors.signup.terms") %> 
+                <% end %>
+                </div>
               </div>
             <% end %>
             <div class="card-footer">
@@ -79,4 +116,6 @@
       </div>
     </div>
   </div>
+</div>
+
 </div>
