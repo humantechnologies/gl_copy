@@ -29,7 +29,9 @@
 					<div class="dropdown">
 						<a href="#" class="nav-link pr-0" data-toggle="dropdown">
 							<% if current_user.image.blank? %>
-								<span class="avatar"><%= current_user.name.first %></span>
+              
+       				<%#GT20190213      <span class="avatar"><%= current_user.name.first % ></span>  %>
+               <span class="avatar" style="background-image: url(<%= "/users/user_placeholder.jpg" %>)"></span>
 							<% else %>
 								<span class="avatar" style="background-image: url(<%= current_user.image %>)"></span>
 							<% end %>
