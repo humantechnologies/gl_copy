@@ -32,7 +32,7 @@
       </div>
     </div>
     <br>
-    <!-- GT20190119 nascosto (preferisco nasconderlo perchè modificarlo impatta diversi punti)  -- >
+    <% #GT20190119 nascosto (preferisco nasconderlo perchè modificarlo impatta diversi punti)  %>
     <%= f.label t("settings.account.provider"), class: "form-label" %>
     <%= f.text_field :provider, class: "form-control", readonly: "" %>
     <br>  <-- -->
@@ -43,7 +43,8 @@
     <div class="row">
       <div class="col-2">
         <% if current_user.image.blank? %>
-          <span class="avatar avatar-xxl mr-5 mt-2"><%= current_user.name.first %></span>
+       		<%#GT20190213      <span class="avatar avatar-xxl mr-5 mt-2"><%= current_user.name.first % ></span>  %>
+          <span class="avatar avatar-xxl mr-5 mt-2" style="background-image: url(<%= "/users/user_placeholder.jpg" %>)"></span>
         <% else %>
           <span class="avatar avatar-xxl mr-5 mt-2" style="background-image: url(<%= current_user.image %>)"></span>
         <% end %>
