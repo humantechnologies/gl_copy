@@ -1,3 +1,19 @@
+versione 1.0.5 modifiche dal 15/02/2019 al 15/02/2019 su versione master (greenlight release 2.0.5)
+
+app/views/shared/_footer.html-erb           (minor issue correction)
+app/views/shared/settings/_account.html.erb (ottimizzato layout per mobile)
+app/views/users/terms.html.erb              (sistemata responsiveness del layout)
+
+app/views/shared/_sessions.html.erb         (sistemato scroll tabella per mobile)
+app/views/rooms/show.html.erb               (sistemato layout generale)
+
+config/locales/it.yml
+
+config/terms.md
+config/info/it_termini.md
+
+
+
 version 1.0.4 modifiche dal 04/02/2019 al 14/02/2019 su versione master (greenlight release 2.0.5)
 
 app/controllers/application_controller.rb   (impostata "it" come lingua di default)
