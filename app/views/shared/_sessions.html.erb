@@ -13,6 +13,13 @@
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 %>
 
+<% # GT20190215 table overflow ovverriden with scroll for mobile rendering%>
+<style>
+.table-responsive {
+  overflow: scroll;
+}
+</style>
+
 <div class="sessions pb-5">
   <div class="container pt-6">
 
@@ -49,7 +56,7 @@
                 </tr>
                 <% if recordings.empty? %>
                   <tr>
-                    <td colspan="7" class="text-center h4 p-6 font-weight-normal">
+                    <td colspan="7" class="h4 p-6 font-weight-normal">
                       <%= t("recording.no_recordings", inject: only_public ? t("recording.visibility.public").downcase + " "  : "") %>
                     </td>
                   </tr>
