@@ -21,12 +21,24 @@
   <% end %>
 <% end %>
 
+<% # GT20190215 input url lenght modified, title dimension reduced%>
+<style>
+.invite-link-input {
+    width: auto;
+    min-width: 50%;
+}
+
+.start-button {
+    font-size: 18px !important;
+}
+</style>
+
 <div class="background pb-1">
   <div class="container">
     <div class="row pt-9">
       <div class="col-lg-9 col-sm-12">
         <div id="room-title" class="display-3 form-inline <%= 'edit_hover_class' if current_user.main_room != @room %>">
-          <h1 contenteditable=false id="user-text" class="display-3 text-left mb-3 font-weight-400"><%= @room.name %></h1>
+          <h1 contenteditable=false id="user-text" class="display-5 text-left mb-3 font-weight-400"><%= @room.name %></h1>
           <% if current_user.main_room == @room %>
             <a class="disable-click"><i class="fas fa-home align-top home-indicator ml-2"></i></a>
           <% else %>
@@ -51,7 +63,7 @@
       <div class="col-lg-3 col-sm-12 force-bottom mt-5">
         <% if @is_running %>
           <%= button_to t("room.join"), room_path(@room), class: "btn btn-primary btn-block px-7 start-button float-right" %>
-        <% else %>
+        <% else %>  
           <%= button_to t("room.start"), start_room_path(@room), class: "btn btn-primary btn-block px-7 start-button float-right" %>
         <% end %>
       </div>
