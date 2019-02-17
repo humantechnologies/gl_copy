@@ -128,5 +128,5 @@ A. Ai fini della presente Descrizione del servizio, si applicheranno le seguenti
 
 "Servizi" indica le varie videoconferenze, web conferencing, webinar, meeting room, screensharing e altri servizi di collaborazione offerti da Chiamami.Online che il Cliente può ordinare creando un account o su un modulo d'ordine.
 
-B. I Servizi Chiamami.Online consentono agli Host di pianificare e avviare riunioni e di consentire ai partecipanti di partecipare a riunioni allo scopo di collaborare utilizzando le funzionalità di voce, video e condivisione dello schermo. Ogni riunione avrà un host. Le funzionalità di chat consentono la collaborazione personale o di gruppo fuori sessione. Ulteriori caratteristiche, funzionalità e soluzioni sono descritte su https: chiamami.omline.
+B. I Servizi Chiamami.Online consentono agli Host di pianificare e avviare riunioni e di consentire ai partecipanti di partecipare a riunioni allo scopo di collaborare utilizzando le funzionalità di voce, video e condivisione dello schermo. Ogni riunione avrà un host. Le funzionalità di chat consentono la collaborazione personale o di gruppo fuori sessione. Ulteriori caratteristiche, funzionalità e soluzioni sono descritte su https://chiamami.online.
 
