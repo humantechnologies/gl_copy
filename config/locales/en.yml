@@ -81,12 +81,13 @@ en:
     share: Share with your friends
   footer:
     powered_by: "Copyright 2019:    %{href}."
-    ht: "HT Tecnologie Umanistiche s.r.l. - cf/p.iva n. iscrizione cciia 02160600991"
+    ht: "HT Tecnologie Umanistiche s.r.l. - cf/p.iva 02160600991"
     mail: info@tecnologie-umanistiche.it
     phone: "+39 3357499489"
     terms: Terms of Use
     privacy: Privacy Policy
     cookies: Cookies
+    info: About
     faq: FAQ
     contacts: Contacts
   forgot_password:
@@ -98,6 +99,8 @@ en:
   header:
     create_room: Create Room
     dropdown:
+      info: Info
+      faq: FAQs
       help: Need help?
       home: Home Room
       settings: Settings
