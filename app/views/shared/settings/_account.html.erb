@@ -13,6 +13,19 @@
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 %>
 
+<% # GT20190216 profile image dimention adabpted to mobile rendering%>
+<style>
+@media (max-width: 768px) {
+ .avatar-xxl {
+    width: 2rem; 
+    height: 2rem; 
+    line-height: 2rem;
+    font-size: 2rem;
+    margin-top: 1.7rem !important;
+ }
+}
+</style>
+
 <%= form_for @user, url: update_user_path, method: :patch do |f|  %>
   <%= hidden_field_tag :setting, "account" %>
   <div class="form-group">
@@ -41,7 +54,7 @@
     <br>   -->
     
     <div class="row mb-4">
-      <div class="col-6">
+      <div class="col-12" style="max-width:500px">
 
        <%= f.label t("settings.account.language"), class: "form-label" %>
        <%= f.select :language, language_options, {}, { class: "form-control custom-select" } %>
