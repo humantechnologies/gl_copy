@@ -1,5 +1,3 @@
-###Informazioni
-
 Chiamami.Online è il primo sistema di web conferencing italiano particolarmente orientato al supporto dell' e-learning.
 
 Crediamo che Studenti e Docenti debbano avere accesso a sistemi di alta qualità per le loro lezioni personali e di gruppo, ovunque si trovino, in Italia e nel mondo.
