@@ -78,7 +78,10 @@
             <%= t("landing.meetings").html_safe %></h2>
 
           <p class="lead offset-lg-2 col-lg-8 col-sm-12 mb-6"></p>
-  
+
+				<% if current_user %>
+        						<%= link_to t("go_home"), current_user.main_room, :rel => "nofollow", :class => "btn btn-pill btn-outline-primary_inhome btn_inhome mx-2 mb-2" %>
+				<% else %>
           <% if Rails.configuration.omniauth_bn_launcher %>
                     <%= link_to t("login"), omniauth_login_url(:bn_launcher), :rel => "nofollow", :class => "btn btn-pill btn-outline-primary mx-2" %>
           <% elsif Rails.configuration.omniauth_ldap %>
@@ -90,6 +93,8 @@
         	<% if allow_user_signup? %>
         						<%= link_to t("signup.title"), signup_path, :rel => "nofollow", :class => "btn btn-pill btn-outline-primary_inhome btn_inhome mx-2 mb-2" %>
           <% end %>
+				<% end %>
+
 
        <%= link_to "#info", target: "" do %>      
           <h4 class="mt-6" style="color: #fff;"><%= t("landing.video") %></h4>
