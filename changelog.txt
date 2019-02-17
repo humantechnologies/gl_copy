@@ -1,3 +1,19 @@
+versione 1.0.6 modifiche dal 16/02/2019 al 17/02/2019 su versione master (greenlight release 2.0.5)
+
+app/views/shared/settings/_account.html.erb (ottimizzato layout per mobile)
+app/views/shared/_footer.html-erb           (info link added)
+app/views/shared/_header.html-erb           (info/faq menu added)
+
+app/views/main/index.html.erb               (gestione pulsanti in loggedin/loggeout)
+
+tutti i file delle lingue
+config/locales/*.yml
+
+config/terms.md
+config/info/it_termini.md
+config/info/it_informazioni.md
+
+
 versione 1.0.5 modifiche dal 15/02/2019 al 15/02/2019 su versione master (greenlight release 2.0.5)
 
 app/views/shared/_footer.html-erb           (minor issue correction)
