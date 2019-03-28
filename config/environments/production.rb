@@ -62,6 +62,9 @@ Rails.application.configure do
   # Tell Action Mailer to use smtp server, if configured
   config.action_mailer.delivery_method = ENV['SMTP_SERVER'].present? ? :smtp : :sendmail
 
+  # 20190328 (MM) 
+  # MODIFICATA IN ACCORDO A //stackoverflow.com/questions/13408898/hostname-does-not-match-the-server-certificate-cannot-send-email
+  # AGGIUNTA LA VARIABILE OPENSSL_VERIFY_MODE IN /root//greenlight/env
   ActionMailer::Base.smtp_settings = {
     address: ENV['SMTP_SERVER'],
     port: ENV["SMTP_PORT"],
@@ -70,7 +73,8 @@ Rails.application.configure do
     password: ENV['SMTP_PASSWORD'],
     authentication: ENV['SMTP_AUTH'],
     enable_starttls_auto: ENV['SMTP_STARTTLS_AUTO'],
-  }
+#    openssl_verify_mode:ENV['OPENSSL_VERIFY_MODE'],
+    }
 
   # Don't care if the mailer can't send.
   config.action_mailer.raise_delivery_errors = true
