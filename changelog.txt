@@ -1,3 +1,17 @@
+versione 1.0.7 modifiche dal 17/02/2019 al 30/03/2019 su versione master (greenlight release 2.0.5)
+
+app/views/shared/features.html.erb    (aggiunto codice di analitics)
+
+app/views/users/verify.html.erb       (modificato messaggio solo in inglese)
+app/views/user_mailer/verify_email.html.erb (modificato testo email di verifica solo in inglese)
+app/views/user_mailer/verify_email.text.erb (modificato testo email di verifica solo in inglese)
+
+.env   (inserire allow_mail_verification true e mail_sender)
+
+tutti i file delle lingue
+config/locales/*.yml
+
+
 versione 1.0.6 modifiche dal 16/02/2019 al 17/02/2019 su versione master (greenlight release 2.0.5)
 
 app/views/shared/settings/_account.html.erb (ottimizzato layout per mobile)
