@@ -17,12 +17,13 @@
 %>
 
 
-Welcome to Greenlight, <%= @user.name %>
+<%= t("verifymail.welcome") %>, <%= @user.name %>
 ===============================================
  
-You have successfully registered your Greenlight account,
-your username is: <%= @user.email %>.
+<%= t("verifymail.success") %>,
+<%= t("verifymail.username") %>: <%= @user.email %>.
  
-To verify your account, just follow this link: <%= link_to 'verify your email', @url  %>.
+<%= t("verifymail.follow_link") %>: <%= link_to t("verify.title"), @url  %>.
  
-Thanks for joining and have a great day!
+<%= t("verifymail.thanks") %>
+

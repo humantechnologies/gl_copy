@@ -16,20 +16,20 @@
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 %>
 
-<!DOCTYPE html>
+<!DOCTYPE html>                <%= t("verifymail.welcome") %>
 <html>
   <head>
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
   </head>
   <body>
-    <h1>Welcome to BigBlueButton!, <%= @user.name %></h1>
+    <h1><%= t("verifymail.welcome") %>, <%= @user.name %></h1>
     <p>
-      You have successfully registered your Greenlight account,
-      your username is: <%= @user.email %>.<br>
+      <%= t("verifymail.success") %>,
+      <%= t("verifymail.username") %>: <%= @user.email %>.<br>
     </p>
     <p>
-      To verify your account, just follow this link: <%= link_to 'verify your email', @url %>.
+      <%= t("verifymail.follow_link") %>: <%= link_to t("verify.title"), @url %>.
     </p>
-    <p>Thanks for joining and have a great day!</p>
+    <p><%= t("verifymail.thanks") %></p>
   </body>
 </html>
