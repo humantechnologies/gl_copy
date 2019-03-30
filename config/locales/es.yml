@@ -81,6 +81,10 @@ es:
     info: About
     faq: FAQ
     contacts: Contacts
+  forgot_password:
+    subtitle: Forgot Password
+    email: Email
+    submit: Submit
   go_back: Atrás
   greenlight: Chiamami
   header:
@@ -157,6 +161,7 @@ es:
     login:
       or: o
       with: "Ingresar con %{provider}"
+      forgot_password: Forgot Password?
   omniauth_error: Ocurrió un error al intentar ingresar utilizando OmniAuth. Por favor intente nuevamente o contacte un administrador.
   password: Contraseña
   recording:
@@ -222,3 +227,14 @@ es:
   test_install: >
     Esta instalación esta haciendo uso del servidor para pruebas que viene pre-configurado. Debería ser substituido con tu propio servidor. Para más detalles vea %{href}.
   update: Actualizar
+  verify:
+    title: Verify your email
+    resend: Resend verification email
+    accept: Verify
+    not_verified:  Your account has not been verified yet.
+  verifymail:
+    welcome: Welcome to Chiamami.Online!
+    success: You have successfully registered your account
+    username: your username is
+    follow_link: To verify your account, just follow this link
+    thanks: Thanks for joining and have a great day!

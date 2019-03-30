@@ -266,3 +266,10 @@ en:
     title: Verify your email
     resend: Resend verification email
     accept: Verify
+    not_verified:  Your account has not been verified yet.
+  verifymail:
+    welcome: Welcome to Chiamami.Online!
+    success: You have successfully registered your account
+    username: your username is
+    follow_link: To verify your account, just follow this link
+    thanks: Thanks for joining and have a great day!
