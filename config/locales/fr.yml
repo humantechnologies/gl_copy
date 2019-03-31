@@ -27,6 +27,7 @@ fr:
   delete: Supprimer
   docs: Documentation
   email: Email
+  email_sent: Email Sent!
   enter_your_name: Entrez votre nom !
   errors:
     internal:
@@ -154,6 +155,13 @@ fr:
       forgot_password: Forgot Password?
   omniauth_error: Une erreur est survenue lors de l'authentification avec omniauth. Veuillez réessayer ou contacter un administrateur !
   password: Mot de passe
+  password_empty_notice: Password cannot be empty.
+  password_reset_success: Password has been reset.
+  password_different_notice: Password Confirmation does not match.
+  provider:
+    google: Google
+    microsoft_office365: Office 365
+    twitter: Twitter
   recording:
     email: Envoyer l'enregistrement par Email
     no_recordings: "Cette salle n'a pas d'enregistrement%{inject}."
@@ -168,6 +176,15 @@ fr:
     visibility:
       public: Publique
       unlisted: Non Listé
+  rename: Rename
+  reset_password:
+    subtitle: Reset Password
+    password: New Password
+    confirm: New Password Confirmation
+    update: Update Password
+    click_link: Please click the link below to reset your password
+    link_expires: This link will expire in two hours.
+    link_ignore: If you did not request your password to be reset, please ignore this email and your password will not be changed.
   room:
     invited: Vous avez été invité à rejoindre
     invite_participants: Inviter des participants

@@ -27,6 +27,7 @@ el:
   delete: Διαγραφή
   docs: Οδηγίες
   email: Ηλεκτρονικό Ταχυδρομείο
+  email_sent: Email Sent!
   enter_your_name: Εισάγετε το όνομα σας!
   errors:
     internal:
@@ -168,6 +169,15 @@ el:
     visibility:
       public: Δημόσιο
       unlisted: Ακαταχώριτο
+  rename: Rename
+  reset_password:
+    subtitle: Reset Password
+    password: New Password
+    confirm: New Password Confirmation
+    update: Update Password
+    click_link: Please click the link below to reset your password
+    link_expires: This link will expire in two hours.
+    link_ignore: If you did not request your password to be reset, please ignore this email and your password will not be changed.
   room:
     invited: Έχετε προσκληθεί να συμμετάσχετε
     invite_participants: Προσκαλέστε τους συμμετέχοντες

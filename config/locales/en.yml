@@ -210,6 +210,9 @@ en:
     password: New Password
     confirm: New Password Confirmation
     update: Update Password
+    click_link: Please click the link below to reset your password
+    link_expires: This link will expire in two hours.
+    link_ignore: If you did not request your password to be reset, please ignore this email and your password will not be changed.
   room:
     invited: You have been invited to join
     invite_participants: Invite Participants
