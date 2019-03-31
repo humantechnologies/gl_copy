@@ -52,7 +52,8 @@
             <span class="input-icon-addon">
               <i class="fas fa-link"></i>
             </span>
-            <input id="invite-url" type="text" class="form-control w-100" value="<%= request.base_url + @room.invite_path %>" readonly="">
+            <% #GT20190331 request.base.url modified %>
+            <input id="invite-url" type="text" class="form-control w-100" value="<%= ENV['REWRITED_HOST'] + @room.invite_path %>" readonly="">
           </div>
           <div id="copy" class="btn btn-primary mx-2">
             <i class="fas fa-copy"></i>
