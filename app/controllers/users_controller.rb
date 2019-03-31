@@ -159,7 +159,8 @@ class UsersController < ApplicationController
   end
 
   def verification_link(user)
-    request.base_url + confirm_path(user.uid)
+#GT20190331    request.base_url + confirm_path(user.uid)
+     ENV['REWRITED_HOST'] + confirm_path(user.uid)
   end
 
   def find_user

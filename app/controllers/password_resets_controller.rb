@@ -29,7 +29,8 @@ class PasswordResetsController < ApplicationController
     @user = User.find_by(email: params[:password_reset][:email].downcase)
     if @user
       @user.create_reset_digest
-      @user.send_password_reset_email(request.base_url)
+      #GT20190331 @user.send_password_reset_email(request.base_url)
+      @user.send_password_reset_email(ENV['REWRITED_HOST'])
       redirect_to root_url, notice: I18n.t("email_sent")
     else
       redirect_to new_password_reset_path, notice: I18n.t("no_user_email_exists")
