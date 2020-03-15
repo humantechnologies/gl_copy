@@ -1,0 +1,251 @@
+# BigBlueButton open source conferencing system - http://www.bigbluebutton.org/.
+#
+# Copyright (c) 2018 BigBlueButton Inc. and by respective authors (see below).
+#
+# This program is free software; you can redistribute it and/or modify it under the
+# terms of the GNU Lesser General Public License as published by the Free Software
+# Foundation; either version 3.0 of the License, or (at your option) any later
+# version.
+#
+# BigBlueButton is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License along
+# with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
+
+# Greek (el) locale.
+
+el:
+  bigbluebutton: BigBlueButton
+  cancel: Ακύρωση
+  cookies_eu:
+    cookies_text: "Τα cookies μας βοηθούν να προσφέρουμε τις υπηρεσίες μας. Με την χρησιμοποίηση των υπηρεσιών μας, συμφωνείτε στην χρήση των cookies."
+    learn_more: "Μάθετε περισσότερα"
+    ok: "OK"
+  copy: Αντιγραφή
+  delete: Διαγραφή
+  docs: Οδηγίες
+  email: Ηλεκτρονικό Ταχυδρομείο
+  email_sent: Email Sent!
+  enter_your_name: Εισάγετε το όνομα σας!
+  errors:
+    internal:
+      message: Ωχ όχι! Φαίνεται ότι κάτι πήγε στραβά
+      help: "Το σφάλμα έχει καταγραφεί, θα ρίξουμε μια ματιά!"
+    migration_error:
+      contact_admin: "Αν δεν είστε διαχειριστής, επικοινωνήστε με έναν."
+      continue: Θα ήθελα να μείνω χρησιμοποιώντας 1.0.
+      notice: >
+        Το Chiamami αντιμετώπισε σφάλμα με τη βάση δεδομένων. <br> Αυτό μπορεί να οφείλεται στο ότι δεν έχετε αναβαθμιστει στο Chiamami 2.0.
+      upgrade: Δείξε μου πώς να αναβαθμίσω σε 2.0!
+      version: "Έχουμε κυκλοφορήσει μια νέα έκδοση του Chiamami, αλλά η βάση δεδομένων σας δεν είναι συμβατή."
+    not_found:
+      message: Ωπ! Φαίνεται ότι δεν μπορούμε να το βρούμε αυτό.
+      help: Είναι δυνατόν να αφαιρεθεί;
+    title: Σφάλματα
+    unprocessable:
+      message: Ωπ! Το αίτημα είναι μη επεξεργάσιμο.
+      help: "Δυστυχώς, αυτό δεν είναι έγκυρο αίτημα."
+    signup:
+       name: name not valid (can't be blank and max 256 chars)
+       email: email not valid (can't be blank, invalid or in use)
+       password: password not valid (min 6 characters)
+       confirm: password confirmation doesn't match password
+       terms: terms and condition shall be accepted
+  features:
+    title: Χαρακτηριστικά
+    rooms: Εξατομικευμένα Δωμάτια
+    recordings: Διαχείριση εγγραφής
+    designs: Προσαρμοσμένα Σχέδια
+    authentication: Έλεγχος ταυτότητας χρήστη
+    subtitle: "The Italian web conferencing and education server. You can create your own rooms to host sessions, or join your friends using a short and convenient link."
+    subtitle2: An essential tool for teachers and students who want to organize private lessons, repetitions or classrooms, for distance learning professionals, for organizing courses and webinars, for small and medium-sized companies business meetings.
+    roomsdetails: Online Lessons, Homework and Student Support
+    recordingsdetails: Company and Professional Meetings
+    designdetails: Video Courses, Training and Group Lessons
+    authdetails: Virtual Dashboard and Education Material Sharing
+    whytitle: Why use the Virtual Classrooms of Chiamami.Online
+    whypara1: If you are a teacher, a school or a company that provides training in the virtual classrooms of Chiamami.online you can host your individual and group lessons, organize webinars and seminars for students and professionals without making the participants move from home, school or own workstation.
+    whypara2: If you manage a company you can organize meetings or provide training and refresher courses to your employees directly in their location, even in different locations around the country, with a considerable optimization of execution times and reduction of costs for travel and logistics.
+    whypara3: You can also use our services to provide online technical support to the customers of your business, allowing you to connect by videoconference to request information and talk with an expert of your company, remotely anticipating the solution of some problems or allowing a more targeted intervention on the field.
+    whypara4: Chiamami.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
+    share: Share with your friends
+  footer:
+    powered_by: "Υποστηριζόμενο από %{href}"
+    ht: "HT Tecnologie Umanistiche s.r.l. - cf/p.iva 02160600991"
+    mail: info@tecnologie-umanistiche.it
+    phone: "+39 3357499489"
+    terms: Terms of Use
+    privacy: Privacy Policy
+    cookies: Cookies
+    info: About
+    faq: FAQ
+    contacts: Contacts
+  forgot_password:
+    subtitle: Forgot Password
+    email: Email
+    submit: Submit
+  go_back: Πήγαινε πίσω
+  greenlight: Chiamami
+  header:
+    create_room: Δημιουργία δωματίου
+    dropdown:
+      info: Info
+      faq: FAQs
+      help: Χρειάζεστε βοήθεια;
+      home: Αρχική αίθουσα
+      settings: Ρυθμίσεις
+      signout: Αποσύνδεση
+  home_room: Αρχική αίθουσα
+  ht: HT - Tecnologie Umanistiche
+  info:
+     contatti: Contacts
+     cookies: Cookies
+     faq: FAQ (Frequently Asked Questions)
+     help: Instructions
+     informazioni: Information
+     prezzi: Plans and Prices
+     privacy: Privacy Policy
+     termini: Term of Use
+     lorem: Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+  info_update_success: Οι πληροφορίες ενημερώθηκαν με επιτυχία.
+  invalid_credentials: Η σύνδεση απέτυχε λόγω μη έγκυρων διαπιστευτηρίων. Είστε βέβαιοι ότι τα έχετε εισάγει σωστά;
+  invite_message: "Για να προσκαλέσετε κάποιον στη συνεδρίαση, στείλτε τον σύνδεσμο:"
+  landing:
+    about: "Το Chiamami είναι ένα απλό διαχειριστικό εργαλείο για το σύστημα τηλεδιάσκεψης ανοιχτού κώδικα %{href}. Μπορείτε να δημιουργήσετε τα δικά σας δωμάτια για να φιλοξενήσετε συνεδρίες ή να συμμετάσχετε σε άλλους χρησιμοποιώντας ένα σύντομο και βολικό σύνδεσμο."
+    welcome: Καλωσήρθες στο <span class="green-grad"> Chiamami </span>.
+    video: Παρακολουθήστε το σεμινάριο μας σχετικά με τη χρήση του Chiamami
+    upgrade: Δείξε μου πώς να αναβαθμίσω σε 2.0!
+    version: "Έχουμε κυκλοφορήσει μια νέα έκδοση του Chiamami, αλλά η βάση δεδομένων σας δεν είναι συμβατή."
+  ldap_error: Δεν είναι δυνατή η σύνδεση με το διακομιστή LDAP. Ελέγξτε τη διαμόρφωση του LDAP στο αρχείο env και βεβαιωθείτε ότι ο διακομιστής σας εκτελείται.
+  login: Σύνδεση
+  max_concurrent: The maximum number of concurrent sessions allowed has been reached!
+  meta:
+     hometitle: "Chiamami.Online, Online Meetings and Lessons"
+     homedescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     homekeywords: "meetings, lessons, online lessons, videoconferences, webinar, e-learning, teachers, students, virtual rooms, screen sharing"
+     staticpagestitle: "Chiamami.Online"
+     staticpagesdescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     staticpageskeywords: "meetings, lessons, online lessons, videoconferences, webinar, virtual rooms, screen sharing"
+     title: "Chiamami.Online"
+     description: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     keywords: "meetings, online lessons, videoconferences, webinar"
+     language: el
+  modal:
+    create_room:
+      auto_join: Αυτόματα σύνδεσε με στο δωμάτιο.
+      free_delete: Θα μπορείτε να διαγράψετε αυτό το δωμάτιο ανά πάσα στιγμή.
+      name_placeholder: Εισαγάγετε ένα όνομα δωματίου ...
+      not_blank: Το όνομα του δωματίου δεν μπορεί να είναι κενό.
+      title: Δημιουργία νέου δωματίου
+    delete_account:
+      confirm: Είστε βέβαιοι ότι θέλετε να διαγράψετε το λογαριασμό σας;
+      delete: "Είμαι σίγουρος, διαγράψτε τον λογαριασμό μου."
+      keep: "Στην πραγματικότητα, θα το κρατήσω."
+      warning: Η απόφαση αυτή είναι τελική. <b>Δεν</b> θα μπορείτε να ανακτήσετε τα συσχετισμένα δεδομένα.
+    delete_room:
+      confirm: "Είστε βέβαιοι ότι θέλετε να διαγράψετε το %{room};"
+      delete: "Είμαι σίγουρος, διαγράψτε αυτό το δωμάτιο."
+      keep: "Με μια δέυτερη σκέψη, θα το κρατήσω."
+      warning: <b>Δεν</b> θα μπορέσετε να ανακτήσετε αυτό το δωμάτιο ή οποιαδήποτε από τις συσχετισμένες εγγραφές του.
+    login:
+      or: ή
+      with: "Συνδέσου με %{provider}"
+      forgot_password: Forgot Password?
+  name_update_success: Room name successfully changed!
+  no_user_email_exists: There is no existing user with the email specified. Please make sure you typed it correctly.
+  omniauth_error: Παρουσιάστηκε σφάλμα κατά την επικύρωση με το omniauth. Δοκιμάστε ξανά ή επικοινωνήστε με έναν διαχειριστή!
+  password: Κωδικός πρόσβασης
+  password_empty_notice: Password cannot be empty.
+  password_reset_success: Password has been reset.
+  password_different_notice: Password Confirmation does not match.
+  provider:
+    google: Google
+    microsoft_office365: Office 365
+    twitter: Twitter
+  recording:
+    email: Εγγραφή μέσω ηλεκτρονικού ταχυδρομείου
+    no_recordings: "Αυτό το δωμάτιο δεν έχει %{inject} εγγραφές."
+    recorded_on: "Εγγραφή στις %{date}"
+    table:
+      name: Όνομα
+      thumbnails: Μικρογραφίες
+      length: Μήκος
+      users: Χρήστες
+      visibility: Εμφάνιση
+      formats: Μορφές
+    visibility:
+      public: Δημόσιο
+      unlisted: Ακαταχώριτο
+  rename: Rename
+  reset_password:
+    subtitle: Reset Password
+    password: New Password
+    confirm: New Password Confirmation
+    update: Update Password
+    click_link: Please click the link below to reset your password
+    link_expires: This link will expire in two hours.
+    link_ignore: If you did not request your password to be reset, please ignore this email and your password will not be changed.
+  room:
+    invited: Έχετε προσκληθεί να συμμετάσχετε
+    invite_participants: Προσκαλέστε τους συμμετέχοντες
+    join: Συμμετοχή
+    last_session: "Τελευταία συνεδρία στις %{session}"
+    owner: Ιδιοκτήτης
+    no_sessions: "Αυτό το δωμάτιο δεν έχει συνεδρίες, ακόμα!"
+    recordings: Εγγραφές
+    sessions: Συνεδρίες
+    settings: Ρυθμίσεις δωματίου
+    start: Αρχή
+    wait:
+      message: Ωχ! Η συνάντηση δεν έχει ξεκινήσει ακόμα.
+      auto: Θα συνδεθείτε αυτόματα όταν ξεκινήσει η συνεδρίαση.
+  settings:
+    account:
+      fullname: Πλήρες όνομα
+      provider: Οργανισμός
+      image: Εικόνα
+      image_url: Διεύθυνση εικόνας προφίλ
+      role: Account type
+      subtitle: Ενημερώστε τα στοιχεία του λογαριασμού σας
+      title: Πληροφορίες λογαριασμού
+    delete:
+      button: "Ναι, θα ήθελα να διαγράψω τον λογαριασμό μου."
+      disclaimer: "Εάν επιλέξετε να διαγράψετε τον λογαριασμό σας, αυτό <b>ΔΕΝ</b> θα είναι ανακτήσιμο. Όλες οι πληροφορίες σχετικά με το λογαριασμό σας, συμπεριλαμβανομένων των ρυθμίσεων, των δωματίων και των εγγραφών θα καταργηθούν."
+      subtitle: Διαγράψτε μόνιμα τον λογαριασμό σας
+      title: Διαγραφή λογαριασμού
+    design:
+      not_supported: Η προσαρμογή δεν υποστηρίζεται αυτή τη στιγμή.
+      subtitle: Προσαρμογή του Chiamami
+      title: Σχέδιο
+    password:
+      confirmation: Επιβεβαίωση νέου κωδικού
+      new: Νέος Κωδικός
+      old: Παλιός Κωδικός
+      subtitle: Αλλάξτε τον κωδικό σας
+      title: Κωδικός πρόσβασης
+    title: Ρυθμίσεις
+  signup:
+    password_confirm: Επιβεβαίωση κωδικού πρόσβασης
+    subtitle: Δημιουργία λογαριασμού
+    title: Εγγραφείτε
+    with: "Εγγραφείτε με %{provider}"
+  terms:
+    accept: Αποδέχομαι τους όρους και τις προϋποθέσεις.
+    title: Οροι και Προϋποθέσεις
+  test_install: >
+    Αυτή η ανάπτυξη χρησιμοποιεί έναν προκαθορισμένο διακομιστή δοκιμών, θα πρέπει να το αντικαταστήσετε με το δικό σας. Για λεπτομέρειες, ανατρέξτε στην ενότητα %{href}.
+  update: Ενημέρωση
+  verify:
+    title: Verify your email
+    resend: Resend verification email
+    accept: Verify
+    not_verified:  Your account has not been verified yet.
+    verifying: Press verify button to complete your account attivation
+  verifymail:
+    welcome: Welcome to Chiamami.Online!
+    success: You have successfully registered your account
+    username: your username is
+    follow_link: To verify your account, just follow this link
+    thanks: Thanks for joining and have a great day!

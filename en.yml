@@ -1,0 +1,280 @@
+# BigBlueButton open source conferencing system - http://www.bigbluebutton.org/.
+#
+# Copyright (c) 2018 BigBlueButton Inc. and by respective authors (see below).
+#
+# This program is free software; you can redistribute it and/or modify it under the
+# terms of the GNU Lesser General Public License as published by the Free Software
+# Foundation; either version 3.0 of the License, or (at your option) any later
+# version.
+#
+# BigBlueButton is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License along
+# with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
+
+# English (en) locale.
+
+en:
+  activerecord:
+    attributes:
+      user:
+        accepted_terms: "Terms and Conditions"
+  bigbluebutton: BigBlueButton
+  bigbluebutton_exception: Oops, there was an error when starting the meeting!
+  cancel: Cancel
+  cookies_eu:
+    cookies_text: "Cookies help us deliver our services. To improve your experience, we use cookies to remember log-in details and provide secure log-in, collect statistics to optimize site functionality, and deliver content tailored to your interests. By using our services, you agree to our use of cookies."
+    learn_more: "Learn more"
+    ok: "OK"
+  copy: Copy
+  delete: Delete
+  delivery_error: An error occured during email delivery. Please contact an administrator!
+  docs: Documentation
+  email: Email
+  email_sent: Email Sent!
+  enter_your_name: Enter your name!
+  errors:
+    internal:
+      message: Oh no! Looks like something went wrong on our end.
+      help: The error has been logged, we'll take a look!
+    migration_error:
+      contact_admin: If you are not an administrator, please contact one.
+      continue: I'd like to stay using 1.0.
+      notice: >
+        Chiamami encountered a database migration error.<br>
+        This may be because you haven't updated to Chiamami 2.0.
+      upgrade: Show me how to upgrade to 2.0!
+      version: We've released a new version of Chiamami, but your database isn't compatible.
+    not_found:
+      message: Whoops! Looks like we can't find that.
+      help: Is it possible its been removed?
+    title: Errors
+    unprocessable:
+      message: Oops! Request is unprocessable.
+      help: Unforunately this isn't a valid request.
+    signup:
+       name: name not valid (can't be blank and max 256 chars)
+       email: email not valid (can't be blank, invalid or in use)
+       password: password not valid (min 6 characters)
+       confirm: password confirmation doesn't match password
+       terms: terms and condition shall be accepted
+  expired_reset_token: Password reset link has expired!
+  features:
+    title: Main Features
+    subtitle: "The Italian web conferencing and education server. You can create your own rooms to host sessions, or join your friends using a short and convenient link."
+    subtitle2: An essential tool for teachers and students who want to organize private lessons, repetitions or classrooms, for distance learning professionals, for organizing courses and webinars, for small and medium-sized companies business meetings.
+    rooms: Lesson Rooms
+    roomsdetails: Online Lessons, Homework and Student Support
+    recordings: Meetings
+    recordingsdetails: Company and Professional Meetings
+    designs: Video Webinars
+    designdetails: Video Courses, Training and Group Lessons
+    authentication: Screen Sharing
+    authdetails: Virtual Dashboard and Education Material Sharing
+    whytitle: Why use the Virtual Classrooms of Chiamami.Online
+    whypara1: If you are a teacher, a school or a company that provides training in the virtual classrooms of Chiamami.online you can host your individual and group lessons, organize webinars and seminars for students and professionals without making the participants move from home, school or own workstation.
+    whypara2: If you manage a company you can organize meetings or provide training and refresher courses to your employees directly in their location, even in different locations around the country, with a considerable optimization of execution times and reduction of costs for travel and logistics.
+    whypara3: You can also use our services to provide online technical support to the customers of your business, allowing you to connect by videoconference to request information and talk with an expert of your company, remotely anticipating the solution of some problems or allowing a more targeted intervention on the field.
+    whypara4: Chiamami.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
+    share: Share with your friends
+  footer:
+    powered_by: "Copyright 2019:    %{href}."
+    ht: "HT Tecnologie Umanistiche s.r.l. - cf/p.iva 02160600991"
+    mail: info@tecnologie-umanistiche.it
+    phone: "+39 3357499489"
+    terms: Terms of Use
+    privacy: Privacy Policy
+    cookies: Cookies
+    info: About
+    faq: FAQ
+    contacts: Contacts
+  forgot_password:
+    subtitle: Forgot Password
+    email: Email
+    submit: Submit
+  go_back: Go back
+  greenlight: Chiamami
+  header:
+    create_room: Create Room
+    dropdown:
+      info: Info
+      faq: FAQs
+      help: Need help?
+      home: Home Room
+      settings: Settings
+      signout: Sign out
+  home_room: Home Room
+  ht: HT - Human Tecnologies
+  info:
+     contatti: Contacts
+     cookies: Cookies
+     faq: FAQ (Frequently Asked Questions)
+     help: Instructions
+     informazioni: Information
+     prezzi: Plans and Prices
+     privacy: Privacy Policy
+     termini: Term of Use
+     lorem: Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+  info_update_success: Information successfully updated.
+  invalid_credentials: Login failed due to invalid credentials. Are you sure you entered them correctly?
+  invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
+  invite_message: "To invite someone to the meeting, send them this link:"
+  landing:
+    about: "The Italian web conferencing and education server. You can create your own rooms to host sessions, or join your friends using a short and convenient link."
+    welcome: Welcome to Chiamami.Online
+    meetings: Meeting and Lessons Online
+    video: Discover Chiamami.Online features
+    upgrade: Show me how to upgrade to 2.0!
+    version: We've released a new version of Chiamami, but your database isn't compatible.
+  language_options:
+    default: Default (browser language)
+    ar: Arabic
+    de: German
+    el: Greek
+    en: English
+    es: Spanish
+    fr: French
+    it: Italiano
+    pt-br: Portuguese (Brazil)
+    ru: Russian
+  ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
+  login: Sign in
+  max_concurrent: The maximum number of concurrent sessions allowed has been reached!
+  meta:
+     hometitle: "Chiamami.Online, Online Meetings and Lessons"
+     homedescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     homekeywords: "meetings, lessons, online lessons, videoconferences, webinar, e-learning, teachers, students, virtual rooms, screen sharing"
+     staticpagestitle: "Chiamami.Online"
+     staticpagesdescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     staticpageskeywords: "meetings, lessons, online lessons, videoconferences, webinar, virtual rooms, screen sharing"
+     title: "Chiamami.Online"
+     description: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
+     keywords: "meetings, online lessons, videoconferences, webinar"
+     language: en
+  modal:
+    create_room:
+      auto_join: Automatically join me into the room.
+      free_delete: You will be free to delete this room at any time.
+      name_placeholder: Enter a room name...
+      not_blank: Room name cannot be blank.
+      title: Create New Room
+    delete_account:
+      confirm: Are you sure you want to delete your account?
+      delete: I'm sure, delete my account.
+      keep: Actually, I'll keep it.
+      warning: This decision is final. You will <b>not</b> be able to recover associated data.
+    delete_room:
+      confirm: Are you sure you want to delete %{room}?
+      delete: I'm sure, delete this room.
+      keep: On second thought, I'll keep it.
+      warning: You will <b>not</b> be able to recover this room or any of its associated recordings.
+    login:
+      or: or
+      with: Sign in with %{provider}
+      forgot_password: Forgot Password?
+    rename_recording:
+
+    rename_room:
+      name_placeholder: Enter a new room name...
+  name_update_success: Room name successfully changed!
+  no_user_email_exists: There is no existing user with the email specified. Please make sure you typed it correctly.
+  omniauth_error: An error occured while authenticating with omniauth. Please try again or contact an administrator!
+  password: Password
+  password_empty_notice: Password cannot be empty.
+  password_reset_success: Password has been reset.
+  password_different_notice: Password Confirmation does not match.
+  provider:
+    google: Google
+    microsoft_office365: Office 365
+    twitter: Twitter
+  recording:
+    email: Email Recording
+    no_recordings: This room has no %{inject}recordings.
+    no_matched_recordings: No %{inject} recordings match your search.
+    recorded_on: Recorded on %{date}
+    table:
+      name: Name
+      thumbnails: Thumbnails
+      length: Length
+      users: Users
+      visibility: Visibility
+      formats: Formats
+    visibility:
+      public: Public
+      unlisted: Unlisted
+  rename: Rename
+  reset_password:
+    subtitle: Reset Password
+    password: New Password
+    confirm: New Password Confirmation
+    update: Update Password
+    click_link: Please click the link below to reset your password
+    link_expires: This link will expire in two hours.
+    link_ignore: If you did not request your password to be reset, please ignore this email and your password will not be changed.
+  room:
+    invited: You have been invited to join
+    invite_participants: Invite Participants
+    join: Join
+    last_session: Last session on %{session}
+    owner: Owner
+    no_sessions: This room has no sessions, yet!
+    recordings: Recordings
+    sessions: Sessions
+    settings: Room Settings
+    start: Start
+    wait:
+      message: Oops! The meeting hasn't started yet.
+      auto: You will automatically join when the meeting starts.
+  settings:
+    account:
+      fullname: Fullname
+      language: Language
+      provider: Provider
+      image: Image
+      image_url: Profile Image URL
+      role: Account type
+      subtitle: Update your Account Info
+      title: Account Info
+    delete:
+      button: Yes, I would like to delete my account.
+      disclaimer: If you choose to delete your account, it will <b>NOT</b> be recoverable. All information regarding your account, including settings, rooms, and recording will be removed.
+      subtitle: Permanently Delete your Account
+      title: Delete Account
+    design:
+      not_supported: Customization not currently supported.
+      subtitle: Customize Chiamami
+      title: Design
+    password:
+      confirmation: New Password Confirmation
+      new: New Password
+      old: Old Password
+      subtitle: Change your Password
+      title: Password
+    title: Settings
+  signup:
+    password_confirm: Password Confirmation
+    subtitle: Create an Account
+    title: Sign up free
+    with: Sign up with %{provider}
+  terms:
+    accept: I accept the %{href}
+    accept_existing: I accept the terms and conditions
+    title: Terms and Conditions
+  test_install: >
+    This deployment is using a pre-configured testing server, you should replace this with your own.
+    For details, see the %{href}.
+  update: Update
+  verify:
+    title: Verify your email
+    resend: Resend verification email
+    accept: Verify
+    not_verified:  Your account has not been verified yet.
+    verifying: Press verify button to complete your account attivation
+  verifymail:
+    welcome: Welcome to Chiamami.Online!
+    success: You have successfully registered your account
+    username: your username is
+    follow_link: To verify your account, just follow this link
+    thanks: Thanks for joining and have a great day!
