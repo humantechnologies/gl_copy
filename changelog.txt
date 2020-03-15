@@ -1,3 +1,11 @@
+versione 1.0.9 modifiche dal 31/03/2019 al 15/03/2020 su versione master (greenlight release 2.0.5)
+
+app/views/users/verify.html.erb               (modificati messaggi di verifica mail)
+
+tutti i file delle lingue
+config/locales/*.yml
+
+
 versione 1.0.8 modifiche dal 31/03/2019 al 31/03/2019 su versione master (greenlight release 2.0.5)
 
 env                                   (impostate costanti per mailer e rewrited_host)
