@@ -11,12 +11,12 @@
 # PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
 # You should have received a copy of the GNU Lesser General Public License along
 # with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
+# GT20202103 inserito warning  e diviso le righe
 %>
 
 <div class="background pb-9" room="<%= @room.uid %>" join-name="<%= @join_name %>">
   <div class="container">
   
-   <!-- GT20202103 inserito warning   -->
      <div class="row">
         <div class="col-lg-12 col-sm-12 mt-8">
            <h4 class="text-left"><%= t("warning.message_1") %></h4>
@@ -32,7 +32,6 @@
         <hr class="mt-2 float-left w-25">
       </div>
     </div>
-   <!-- GT20200321 diviso su due righe e modificata larghezza colonne -->
     <div class="row">
       <div class="col-lg-12 col-md-8 col-sm-12 form-inline mb-5 align-top">
         <% if @room.owner.image.blank? %>
@@ -45,15 +44,12 @@
     </div>  
     <div class="row">
      <!-- <div class="col-lg-6 col-md-4 col-sm-12">  -->
-      <div class="col-lg-12 col-md-4 col-sm-12">
+      <div class="col-lg-12 col-sm-12">
         <%= yield %>
       </div>
     </div>
-   
+    
   </div>
 </div>
-
-
-
 
 <%= render "shared/sessions", recordings: @room.public_recordings, only_public: true %>
