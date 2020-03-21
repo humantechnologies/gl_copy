@@ -249,3 +249,8 @@ de:
     username: your username is
     follow_link: To verify your account, just follow this link
     thanks: Thanks for joining and have a great day!
+  warning:
+    message_1: EMERGENZA COVID-19
+    message_2: Informiamo gli utenti che in questo periodo, allo scopo di garantire il migliore servizio a tutti i nostri abbonati, ogni giorno verranno eseguite operazioni di manutenzione straordinaria sui nostri server alle ore 08:00, 13:00, e 19:00.
+    message_3: Consigliamo di terminare i vostri collegamenti un minuto prima degli orari indicati. Potrete riprenderli 5 minuti dopo gli orari indicati.
+    
