@@ -1,4 +1,4 @@
-versione 1.0.10 modifiche dal 15/03/2020 al 21/03/2020 su versione master (greenlight release 2.0.5)
+versione 1.0.10/11/12 modifiche dal 15/03/2020 al 21/03/2020 su versione master (greenlight release 2.0.5)
 
 
 app/views/shared/settings/_account.html.erb   (inserito display ruolo utente non modificabile)
