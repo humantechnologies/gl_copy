@@ -1,3 +1,14 @@
+versione 1.0.10 modifiche dal 15/03/2020 al 21/03/2020 su versione master (greenlight release 2.0.5)
+
+
+app/views/shared/settings/_account.html.erb   (inserito display ruolo utente non modificabile)
+app/views/shared/rooms/_room_event.html.erb   (diviso form su due righe e modificata larghezza colonne e inserito warning)
+app/views/rooms/join.html.erb                 (diviso input e bottone su due righe per migliorare rendering)
+
+app/views/rooms/show.html.erb                 (inserito warning covid)
+
+config/locales/*.yml
+
 versione 1.0.9 modifiche dal 31/03/2019 al 15/03/2020 su versione master (greenlight release 2.0.5)
 
 app/views/users/verify.html.erb               (modificati messaggi di verifica mail)
