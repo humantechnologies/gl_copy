@@ -163,6 +163,8 @@ es:
       or: o
       with: "Ingresar con %{provider}"
       forgot_password: Forgot Password?
+  name_update_success: Room name successfully changed!
+  no_user_email_exists: There is no existing user with the email specified. Please make sure you typed it correctly.
   omniauth_error: Ocurrió un error al intentar ingresar utilizando OmniAuth. Por favor intente nuevamente o contacte un administrador.
   password: Contraseña
   password_empty_notice: Password cannot be empty.
@@ -215,6 +217,7 @@ es:
       provider: Proveedor
       image: Imagen
       image_url: "Enlace a imagén de perfil "
+      role: Account type
       subtitle: Actualizar información de usuario
       title: Información de la cuenta
     delete:
@@ -249,9 +252,15 @@ es:
     resend: Resend verification email
     accept: Verify
     not_verified:  Your account has not been verified yet.
+    verifying: Press verify button to complete your account attivation
   verifymail:
     welcome: Welcome to Chiamami.Online!
     success: You have successfully registered your account
     username: your username is
     follow_link: To verify your account, just follow this link
     thanks: Thanks for joining and have a great day!
+  warning:
+    message_1: EMERGENZA COVID-19
+    message_2: Informiamo gli utenti che in questo periodo, allo scopo di garantire il migliore servizio a tutti i nostri abbonati, ogni giorno verranno eseguite operazioni di manutenzione straordinaria sui nostri server alle ore 08:00, 13:00, e 19:00.
+    message_3: Consigliamo di terminare i vostri collegamenti un minuto prima degli orari indicati. Potrete riprenderli 5 minuti dopo gli orari indicati.
+    
