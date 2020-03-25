@@ -80,20 +80,6 @@
     </div>
   </div>
   
-  <%#GT20200310 aggiunto display del ruolo %>
-
-   <% if current_user.role == 100 %>
-       <%= f.label t("settings.account.role") + " : admin", class: "form-label" %>
-   <% end %>
-   <% if current_user.role == 2 %>       
-       <%= f.label t("settings.account.role") + " : premium", class: "form-label" %>
-   <% end %>
-   <% if current_user.role == 1 %>       
-       <%= f.label t("settings.account.role") + " : professionale", class: "form-label" %>
-   <% end %>
-   <% if current_user.role == 0 %>       
-       <%= f.label t("settings.account.role") + " : base", class: "form-label" %>
-    <% end %>
     
   <div class="card-footer">
     <%= f.submit t("update"), class: "btn btn-primary float-right" %>
