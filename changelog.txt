@@ -1,3 +1,14 @@
+versione 1.0.13 modifiche dal 24/03/2020 al 25/03/2020 su versione master (greenlight release 2.0.5)
+
+.env                                          (modificato dominio, da fare a mano)
+app/views/layouts/application.html.erb        (modificato dominio)
+app/views/shared/_footer.html.erb             (modificato dominio)
+config/initializers/session_store.rb          (modificato dominio)
+config/terms.md                               (modificato dominio)
+config/info/*.md                              (modificato dominio)
+config/locales/*.yml      
+
+
 versione 1.0.10/11/12 modifiche dal 15/03/2020 al 21/03/2020 su versione master (greenlight release 2.0.5)
 
 
