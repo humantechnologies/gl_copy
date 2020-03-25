@@ -33,10 +33,10 @@ pt-br:
       contact_admin: Se você não é um administrador, por favor contate algum.
       continue: Gostaria de permanecer usando 1.0.
       notice: >
-        Chiamami encontrou um erro de migração no banco de dados.<br>
-        Isso pode ser porque você não atualizou para o Chiamami 2.0.
+        Riunioni encontrou um erro de migração no banco de dados.<br>
+        Isso pode ser porque você não atualizou para o Riunioni 2.0.
       upgrade: Mostre-me como atualizar para 2.0!
-      version: Lançamos uma nova versão do Chiamami, entretanto sua base de dados é incompatível.
+      version: Lançamos uma nova versão do Riunioni, entretanto sua base de dados é incompatível.
     not_found:
       message: Epa! Parece que não conseguimos encontrar isto.
       help: É possível que tenha sido removido?
@@ -62,11 +62,11 @@ pt-br:
     recordingsdetails: Company and Professional Meetings
     designdetails: Video Courses, Training and Group Lessons
     authdetails: Virtual Dashboard and Education Material Sharing
-    whytitle: Why use the Virtual Classrooms of Chiamami.Online
-    whypara1: If you are a teacher, a school or a company that provides training in the virtual classrooms of Chiamami.online you can host your individual and group lessons, organize webinars and seminars for students and professionals without making the participants move from home, school or own workstation.
+    whytitle: Why use the Virtual Classrooms of Riunioni.Online
+    whypara1: If you are a teacher, a school or a company that provides training in the virtual classrooms of Riunioni.online you can host your individual and group lessons, organize webinars and seminars for students and professionals without making the participants move from home, school or own workstation.
     whypara2: If you manage a company you can organize meetings or provide training and refresher courses to your employees directly in their location, even in different locations around the country, with a considerable optimization of execution times and reduction of costs for travel and logistics.
     whypara3: You can also use our services to provide online technical support to the customers of your business, allowing you to connect by videoconference to request information and talk with an expert of your company, remotely anticipating the solution of some problems or allowing a more targeted intervention on the field.
-    whypara4: Chiamami.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
+    whypara4: Riunioni.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
     share: Share with your friends
   footer:
     powered_by: Desenvolvido por %{href}.
@@ -84,7 +84,7 @@ pt-br:
     email: Email
     submit: Submit
   go_back: Voltar
-  greenlight: Chiamami
+  greenlight: Riunioni
   header:
     create_room: Criar Sala
     dropdown:
@@ -100,11 +100,11 @@ pt-br:
   invalid_credentials: O login falhou devido à credenciais inválidas. Tem certeza que inseriu corretamente?
   invite_message: "Para convidar alguém para a reunião, envie este link:"
   landing:
-    about: Chiamami é um front-end simples para seu servidor de webconferências %{href}. Você pode criar suas próprias salas para hospedar sessões, ou se juntar a outras utilizando um link curto e conveniente.
-    welcome: Bem vindo ao <span class="green-grad">Chiamami</span>.
-    video: Assista ao nosso tutorial sobre como utilizar o Chiamami
+    about: Riunioni é um front-end simples para seu servidor de webconferências %{href}. Você pode criar suas próprias salas para hospedar sessões, ou se juntar a outras utilizando um link curto e conveniente.
+    welcome: Bem vindo ao <span class="green-grad">Riunioni</span>.
+    video: Assista ao nosso tutorial sobre como utilizar o Riunioni
     upgrade: Mostre-me como atualizar para o 2.0!
-    version: Lançamos uma nova versão do Chiamami, entretanto sua base de dados é incompatível.
+    version: Lançamos uma nova versão do Riunioni, entretanto sua base de dados é incompatível.
   ldap_error: Não é possível conectar-se ao servidor LDAP. Verifique sua configuração LDAP no arquivo ENV e certifique-se de que seu servidor está funcionando.
   login: Login
   modal:
@@ -192,7 +192,7 @@ pt-br:
       title: Deletar Conta
     design:
       not_supported: Personalização atualmente não suportada.
-      subtitle: Personalizar Chiamami
+      subtitle: Personalizar Riunioni
       title: Design
     password:
       confirmation: Confirmação da Nova Senha
@@ -220,7 +220,7 @@ pt-br:
     not_verified:  Your account has not been verified yet.
     verifying: Press verify button to complete your account attivation
   verifymail:
-    welcome: Welcome to Chiamami.Online!
+    welcome: Welcome to Riunioni.Online!
     success: You have successfully registered your account
     username: your username is
     follow_link: To verify your account, just follow this link

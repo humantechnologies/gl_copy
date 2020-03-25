@@ -37,9 +37,9 @@ el:
       contact_admin: "Αν δεν είστε διαχειριστής, επικοινωνήστε με έναν."
       continue: Θα ήθελα να μείνω χρησιμοποιώντας 1.0.
       notice: >
-        Το Chiamami αντιμετώπισε σφάλμα με τη βάση δεδομένων. <br> Αυτό μπορεί να οφείλεται στο ότι δεν έχετε αναβαθμιστει στο Chiamami 2.0.
+        Το Riunioni αντιμετώπισε σφάλμα με τη βάση δεδομένων. <br> Αυτό μπορεί να οφείλεται στο ότι δεν έχετε αναβαθμιστει στο Riunioni 2.0.
       upgrade: Δείξε μου πώς να αναβαθμίσω σε 2.0!
-      version: "Έχουμε κυκλοφορήσει μια νέα έκδοση του Chiamami, αλλά η βάση δεδομένων σας δεν είναι συμβατή."
+      version: "Έχουμε κυκλοφορήσει μια νέα έκδοση του Riunioni, αλλά η βάση δεδομένων σας δεν είναι συμβατή."
     not_found:
       message: Ωπ! Φαίνεται ότι δεν μπορούμε να το βρούμε αυτό.
       help: Είναι δυνατόν να αφαιρεθεί;
@@ -65,11 +65,11 @@ el:
     recordingsdetails: Company and Professional Meetings
     designdetails: Video Courses, Training and Group Lessons
     authdetails: Virtual Dashboard and Education Material Sharing
-    whytitle: Why use the Virtual Classrooms of Chiamami.Online
-    whypara1: If you are a teacher, a school or a company that provides training in the virtual classrooms of Chiamami.online you can host your individual and group lessons, organize webinars and seminars for students and professionals without making the participants move from home, school or own workstation.
+    whytitle: Why use the Virtual Classrooms of Riunioni.Online
+    whypara1: If you are a teacher, a school or a company that provides training in the virtual classrooms of Riunioni.online you can host your individual and group lessons, organize webinars and seminars for students and professionals without making the participants move from home, school or own workstation.
     whypara2: If you manage a company you can organize meetings or provide training and refresher courses to your employees directly in their location, even in different locations around the country, with a considerable optimization of execution times and reduction of costs for travel and logistics.
     whypara3: You can also use our services to provide online technical support to the customers of your business, allowing you to connect by videoconference to request information and talk with an expert of your company, remotely anticipating the solution of some problems or allowing a more targeted intervention on the field.
-    whypara4: Chiamami.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
+    whypara4: Riunioni.online makes easier to interact and communicate, to dialogue online with their students, to ask questions to the teachers. Facilitates the creation of a collaborative and integrated environment in your company, promotes the dissemination of information and educational material, allows you to save on costs.
     share: Share with your friends
   footer:
     powered_by: "Υποστηριζόμενο από %{href}"
@@ -87,7 +87,7 @@ el:
     email: Email
     submit: Submit
   go_back: Πήγαινε πίσω
-  greenlight: Chiamami
+  greenlight: Riunioni
   header:
     create_room: Δημιουργία δωματίου
     dropdown:
@@ -113,22 +113,22 @@ el:
   invalid_credentials: Η σύνδεση απέτυχε λόγω μη έγκυρων διαπιστευτηρίων. Είστε βέβαιοι ότι τα έχετε εισάγει σωστά;
   invite_message: "Για να προσκαλέσετε κάποιον στη συνεδρίαση, στείλτε τον σύνδεσμο:"
   landing:
-    about: "Το Chiamami είναι ένα απλό διαχειριστικό εργαλείο για το σύστημα τηλεδιάσκεψης ανοιχτού κώδικα %{href}. Μπορείτε να δημιουργήσετε τα δικά σας δωμάτια για να φιλοξενήσετε συνεδρίες ή να συμμετάσχετε σε άλλους χρησιμοποιώντας ένα σύντομο και βολικό σύνδεσμο."
-    welcome: Καλωσήρθες στο <span class="green-grad"> Chiamami </span>.
-    video: Παρακολουθήστε το σεμινάριο μας σχετικά με τη χρήση του Chiamami
+    about: "Το Riunioni είναι ένα απλό διαχειριστικό εργαλείο για το σύστημα τηλεδιάσκεψης ανοιχτού κώδικα %{href}. Μπορείτε να δημιουργήσετε τα δικά σας δωμάτια για να φιλοξενήσετε συνεδρίες ή να συμμετάσχετε σε άλλους χρησιμοποιώντας ένα σύντομο και βολικό σύνδεσμο."
+    welcome: Καλωσήρθες στο <span class="green-grad"> Riunioni </span>.
+    video: Παρακολουθήστε το σεμινάριο μας σχετικά με τη χρήση του Riunioni
     upgrade: Δείξε μου πώς να αναβαθμίσω σε 2.0!
-    version: "Έχουμε κυκλοφορήσει μια νέα έκδοση του Chiamami, αλλά η βάση δεδομένων σας δεν είναι συμβατή."
+    version: "Έχουμε κυκλοφορήσει μια νέα έκδοση του Riunioni, αλλά η βάση δεδομένων σας δεν είναι συμβατή."
   ldap_error: Δεν είναι δυνατή η σύνδεση με το διακομιστή LDAP. Ελέγξτε τη διαμόρφωση του LDAP στο αρχείο env και βεβαιωθείτε ότι ο διακομιστής σας εκτελείται.
   login: Σύνδεση
   max_concurrent: The maximum number of concurrent sessions allowed has been reached!
   meta:
-     hometitle: "Chiamami.Online, Online Meetings and Lessons"
+     hometitle: "Riunioni.Online, Online Meetings and Lessons"
      homedescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
      homekeywords: "meetings, lessons, online lessons, videoconferences, webinar, e-learning, teachers, students, virtual rooms, screen sharing"
-     staticpagestitle: "Chiamami.Online"
+     staticpagestitle: "Riunioni.Online"
      staticpagesdescription: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
      staticpageskeywords: "meetings, lessons, online lessons, videoconferences, webinar, virtual rooms, screen sharing"
-     title: "Chiamami.Online"
+     title: "Riunioni.Online"
      description: "Virtual Rooms for meetings and lessons, provided with virtual blackboard with drawings tools, to load presentaqtions and multimedia contents, screen sharing."
      keywords: "meetings, online lessons, videoconferences, webinar"
      language: el
@@ -217,7 +217,7 @@ el:
       title: Διαγραφή λογαριασμού
     design:
       not_supported: Η προσαρμογή δεν υποστηρίζεται αυτή τη στιγμή.
-      subtitle: Προσαρμογή του Chiamami
+      subtitle: Προσαρμογή του Riunioni
       title: Σχέδιο
     password:
       confirmation: Επιβεβαίωση νέου κωδικού
@@ -244,7 +244,7 @@ el:
     not_verified:  Your account has not been verified yet.
     verifying: Press verify button to complete your account attivation
   verifymail:
-    welcome: Welcome to Chiamami.Online!
+    welcome: Welcome to Riunioni.Online!
     success: You have successfully registered your account
     username: your username is
     follow_link: To verify your account, just follow this link
