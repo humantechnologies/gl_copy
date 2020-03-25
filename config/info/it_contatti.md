@@ -1,4 +1,4 @@
-Chiamami.Online è un marchio di:
+Riunioni.Online è un marchio di:
 
 HT Tecnologie Umanistiche s.r.l.
 

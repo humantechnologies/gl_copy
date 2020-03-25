@@ -1,5 +1,5 @@
 
-####Quali strumenti occorrono per usare il sistema di Web Conferencing Chiamami.Online?
+####Quali strumenti occorrono per usare il sistema di Web Conferencing Riunioni.Online?
 Per accedere ai nostri Servizi il modo più semplice e immediato è utilizzare un Browser sul proprio PC o Tablet, strumenti dotati di una webcam incorporata o esterna. Non è richiesta l'installazione di alcun software addizionale sui vostri strumenti. E' sconsigliato l'uso di telefoni cellulari per riunioni professionali, in quanto le dimensioni dello schermi non consentirebbero di utilizzare al meglio gli strumenti come la Lavagna e visualizzare in maniera adeguata le presentazioni. Per una migliore qualità dell’audio è preferibile utilizzare un head-set (cuffie con microfono) o in altermativa anche gli auricolari per telefoni cellulari. Per organizzare o partecipare ad  una videoconferenza ci si dovrà poi collegare all'aula virtuale tramite il link che vi è stato comunicato ed effettuare il login al vostro account.
 
 ####Da cosa dipende la Qualità della Comunicazione?

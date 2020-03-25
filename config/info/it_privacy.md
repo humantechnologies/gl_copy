@@ -2,7 +2,7 @@ Policy aggiornata il 28 gennaio 2019
 
 ###Chi siamo
 
-L'indirizzo del nostro sito web è: https://chiamami.online, un sito di HT Tecnologie Umanistiche, Via Assarotti 38/16, 16122 Genova, Italia.
+L'indirizzo del nostro sito web è: https://Riunioni.online, un sito di HT Tecnologie Umanistiche, Via Assarotti 38/16, 16122 Genova, Italia.
 
 Il nostro indirizzo email è: <a href="mailto:info@tecnologie-umanistiche.it" rel="nofollow">info@tecnologie-umanistiche.it</a>
 
@@ -16,7 +16,7 @@ I Dati Personali che vengono volontariamente inseriti da chi si registra sul nos
 
 Regitrazioni di dati personali possono essere generate anche da processi tecnici come moduli di contatto, commenti, cookie, statistiche e incorporamenti di terze parti e possono essere generate dall'utente durante l'utilizzo del Servizio.
 
-Questa politica copre il sito Web Chiamami.Online, eventuali applicazioni mobili e client desktop che svilupperemo ed è applicabile in tutto il mondo.
+Questa politica copre il sito Web Riunioni.Online, eventuali applicazioni mobili e client desktop che svilupperemo ed è applicabile in tutto il mondo.
 
 Se risiedi nell'Unione Europea ("EU"), nel Regno Unito, nel Lichtenstein, in Norvegia, in Islanda o in Svizzera, potresti avere ulteriori diritti relativamente ai tuoi Dati Personali. Questi diritti possono includere i diritti previsti dal regolamento generale sulla protezione dei dati ("GDPR") dell'UE, se sei residente nell'UE, nel Regno Unito, nel Lichtenstein, in Norvegia o in Islanda.
 
@@ -86,7 +86,7 @@ Per far funzionare bene questo sito e offrire i nostri servizi a volte installia
 
 ####Con chi condividiamo i tuoi dati
 
-I nostri Servizi sono ospitati e gestiti in Italia e nella Comunità Europea attraverso Chiamami.Online e condivisi con i nostri fornitori di servizi di web hosting, cloud storage, ed altri servizi di parti terze ai fini dell'elaborazione o della conservazione dei dati. Condividiamo inoltre i Dati personali con partner commerciali, fornitori di servizi e/o agenti o appaltatori terzi autorizzati a fornire servizi o transazioni richiesti, tra cui l'elaborazione degli ordini, l'elaborazione delle transazioni con carta di credito quando applicabile, l'hosting di siti Web, la registrazione di seminari e la fornitura di supporto al cliente. Forniamo a tali soggetti terzi le sole informazioni personali necessarie per completare/utilizzare il servizio o la transazione richiesti.
+I nostri Servizi sono ospitati e gestiti in Italia e nella Comunità Europea attraverso Riunioni.Online e condivisi con i nostri fornitori di servizi di web hosting, cloud storage, ed altri servizi di parti terze ai fini dell'elaborazione o della conservazione dei dati. Condividiamo inoltre i Dati personali con partner commerciali, fornitori di servizi e/o agenti o appaltatori terzi autorizzati a fornire servizi o transazioni richiesti, tra cui l'elaborazione degli ordini, l'elaborazione delle transazioni con carta di credito quando applicabile, l'hosting di siti Web, la registrazione di seminari e la fornitura di supporto al cliente. Forniamo a tali soggetti terzi le sole informazioni personali necessarie per completare/utilizzare il servizio o la transazione richiesti.
 
 •	Hosting: Aruba S.p.A
 <br>•	Cloud storage: al momento non utilizzato
@@ -98,7 +98,7 @@ Non vendiamo o affittiamo i vostri dati personali a terzi per nessun motivo, inc
 
 Raccogliamo e possibilmente condividiamo Dati personali e qualsiasi altra informazione aggiuntiva a nostra disposizione al fine di indagare, prevenire o intraprendere azioni riguardanti attività illegali, sospette frodi, situazioni che comportano potenziali minacce alla sicurezza fisica di qualsiasi persona, dei Servizi offerti, o come altrimenti richiesto dalla legge.
 
-Durante la navigazione nel sito Web o usando i Servizi di Chiamami.Online, è possibile che tu venga indirizzato a contenuti o funzionalità ospitati da terze parti, ad esempio per l'elaborazione delle transazioni con carta di credito. Quando le informazioni vengono raccolte per conto di Chiamami.Online questa Informativa sulla privacy è applicabile. Per altri siti o servizi non-Chiamami.Online, dovrai fare riferimento alla politica sulla privacy del proprietario del sito/servizio. È necessario visionare le politiche sulla privacy e sulla sicurezza di tali terze parti prima dell'uso.
+Durante la navigazione nel sito Web o usando i Servizi di Riunioni.Online, è possibile che tu venga indirizzato a contenuti o funzionalità ospitati da terze parti, ad esempio per l'elaborazione delle transazioni con carta di credito. Quando le informazioni vengono raccolte per conto di Riunioni.Online questa Informativa sulla privacy è applicabile. Per altri siti o servizi non-Riunioni.Online, dovrai fare riferimento alla politica sulla privacy del proprietario del sito/servizio. È necessario visionare le politiche sulla privacy e sulla sicurezza di tali terze parti prima dell'uso.
 
 
 #####Per quanto tempo conserviamo i tuoi dati
@@ -115,7 +115,7 @@ Se hai un account su questo sito e hai utilizzato i nostri servizi
 <br>•	Puoi richiedere maggiori informazioni sui Dati personali che deteniamo su di te. Puoi anche richiedere una copia dei Dati personali, compresi i dati che ci hai fornito.
 <br>•	Puoi richiedere di correggere o integrare i Dati personali se ritieni che i dati che deteniamo su di te siano errati o incompleti. Puoi anche correggere alcune di queste informazioni direttamente accedendo al tuo account di servizio. Vi preghiamo di segnalarci al più presto ogni inesattezza o incompletezza.
 <br>•	Puoi contattarci per farci sapere che ti opponi alla raccolta o all'utilizzo dei tuoi dati personali per determinati scopi.
-<br>•	Puoi richiedere la cancellazione di alcuni o tutti i tuoi dati personali dai nostri sistemi. Questo non include i dati che siamo obbligati a conservare per scopi amministrativi, legali o di sicurezza. Gli interessati che desiderano cancellare i propri dati possono farlo disattivando il proprio account. La disattivazione cancellerà tutto l'utilizzo dell'account e le informazioni correlate. Se non sei un cliente Chiamami.Online e desideri che i tuoi dati vengano eliminati, contattaci direttamente utilizzando le informazioni nella sezione "Contattaci" per l'eliminazione delle informazioni.
+<br>•	Puoi richiedere la cancellazione di alcuni o tutti i tuoi dati personali dai nostri sistemi. Questo non include i dati che siamo obbligati a conservare per scopi amministrativi, legali o di sicurezza. Gli interessati che desiderano cancellare i propri dati possono farlo disattivando il proprio account. La disattivazione cancellerà tutto l'utilizzo dell'account e le informazioni correlate. Se non sei un cliente Riunioni.Online e desideri che i tuoi dati vengano eliminati, contattaci direttamente utilizzando le informazioni nella sezione "Contattaci" per l'eliminazione delle informazioni.
 <br>•	Puoi revocare il vostro consenso alla elaborazzoine dei dati in qualsiasi momento. Si noti, tuttavia, che se si esercita questo diritto, potrebbe essere necessario fornire un consenso espresso caso per caso per l'uso o la divulgazione di alcuni dei propri Dati personali, se tale uso o divulgazione è necessario per consentire all'utente utilizzare alcuni o tutti i nostri Servizi.
 <br>•	Diritto di presentare reclami: Hai il diritto di presentare un reclamo in relazione ai tuoi Dati personali con l'autorità di vigilanza del tuo paese o dello Stato membro dell'UE.
 
@@ -126,7 +126,7 @@ Per soddisfare una qualsiasi delle richieste di cui sopra, contattaci utilizzand
 
 ####Dove spediamo i tuoi dati
 
-Il nostro sito è ospitato e gestito in Italia attraverso Chiamami.Online e i suoi fornitori di servizi di web hosting e cloud storage. Anche se al momento non è previsto, e' tuttavia possibile in futuro che i tuoi dati personali siano trasferiti a terzi al di fuori dell'Unione Europea che agiscono per nostro conto ai fini dell'elaborazione o della conservazione, ad esempio fornitori di web hosting, cloud storage o altri servizi di terze parti che assicurino la tutela dei dati siano tutelati secondo gli stessi standard come se i dati fossero in Europa (per esempio attraverso accordi con le parti terze come il Privacy Shield, clausole nei  contratti o regole aziendali vincolanti). Utilizzando uno qualsiasi dei nostri Servizi o fornendo qualsiasi dato personale per uno degli scopi indicati sopra, l'utente acconsente al trasferimento e all'archiviazione dei propri dati personali, forniti dall'utente o ottenuti tramite terzi.
+Il nostro sito è ospitato e gestito in Italia attraverso Riunioni.Online e i suoi fornitori di servizi di web hosting e cloud storage. Anche se al momento non è previsto, e' tuttavia possibile in futuro che i tuoi dati personali siano trasferiti a terzi al di fuori dell'Unione Europea che agiscono per nostro conto ai fini dell'elaborazione o della conservazione, ad esempio fornitori di web hosting, cloud storage o altri servizi di terze parti che assicurino la tutela dei dati siano tutelati secondo gli stessi standard come se i dati fossero in Europa (per esempio attraverso accordi con le parti terze come il Privacy Shield, clausole nei  contratti o regole aziendali vincolanti). Utilizzando uno qualsiasi dei nostri Servizi o fornendo qualsiasi dato personale per uno degli scopi indicati sopra, l'utente acconsente al trasferimento e all'archiviazione dei propri dati personali, forniti dall'utente o ottenuti tramite terzi.
 
 In determinate situazioni, ci potrebbe essere richiesto di divulgare i Dati personali in risposta a richieste legittime da parte delle autorità pubbliche, anche per soddisfare i requisiti di sicurezza nazionale o di applicazione della legge.
 
@@ -182,18 +182,18 @@ Creando un account acconsenti a ricevere comunicazioni via email o newsletter da
 
 Se si utilizza una funzionalità dei Servizi che consente Registrazioni, raccogliamo informazioni da te fornite in relazione a tale utilizzo e attraverso tali Registrazioni, nella misura in cui ci vengono fornite. Queste informazioni possono includere Dati personali, se ci fornisci Dati personali.
 
-Per gli orgnizzatori delle riunioni: installando o utilizzando il software Chiamami.Online o qualsiasi altro software, strumento o funzionalità di Chiamami.Online che consente di registrare riunioni o webinar (ciascuno di essi, una "registrazione"), l'utente riconosce e accetta che esso stessto e la sua azienda siano responsabile di:
-<br>•	informare in modo chiaro tutti gli individui (partecipanti che siano o meno Utenti Chiamami.online) presenti in una riunione o un webinar sia di persona che in remoto che si effettua una registrazione di tale riunione o Webinar
+Per gli orgnizzatori delle riunioni: installando o utilizzando il software Riunioni.Online o qualsiasi altro software, strumento o funzionalità di Riunioni.Online che consente di registrare riunioni o webinar (ciascuno di essi, una "registrazione"), l'utente riconosce e accetta che esso stessto e la sua azienda siano responsabile di:
+<br>•	informare in modo chiaro tutti gli individui (partecipanti che siano o meno Utenti Riunioni.online) presenti in una riunione o un webinar sia di persona che in remoto che si effettua una registrazione di tale riunione o Webinar
 <br>•	ottenere il consenso necessario per tale registrazione come richiesto dalle leggi, norme e regolamenti applicabili, incluse, senza limitazioni, le leggi sulla privacy dei dati. 
 
-Registrando una riunione o un webinar utilizzando qualsiasi servizio Chiamami.Online, tu e la tua azienda dichiarate e garantite che:
+Registrando una riunione o un webinar utilizzando qualsiasi servizio Riunioni.Online, tu e la tua azienda dichiarate e garantite che:
 <br>•	avete ricevuto il consenso legalmente sufficiente da tutti i partecipanti per tale registrazione prima di iniziare una registrazione, 
 <br>•	effettuate, utilizzate, archiviate e altrimenti elaborate tale registrazione in conformità con tutte le leggi, norme e regolamenti applicabili, incluse le leggi sulla protezione dei dati
 <br>•	l'utente memorizzerà e limiterà in altro modo l'accesso a tali registrazioni utilizzando adeguate misure tecniche e organizzative. 
 
-Qualsiasi persona e/o entità che effettui una registrazione di una riunione o un webinar sarà il responsabile del trattamento di tale registrazione e Chiamami.Online sarà il processore di dati per quanto riguarda la registrazione.
+Qualsiasi persona e/o entità che effettui una registrazione di una riunione o un webinar sarà il responsabile del trattamento di tale registrazione e Riunioni.Online sarà il processore di dati per quanto riguarda la registrazione.
 
-Per i partecipanti: Si prega di notare che per qualsiasi meeting o webinar a cui partecipi, le registrazioni possono essere abilitate da un organizzatore del meeting o del webinar. Iscrivendoti ai servizi di Chiamami.Online o comunque utilizzandoli in qualsiasi modo, incluso, senza limitazioni, partecipando a qualsiasi meeting o webinar, l'utente riconosce espressamente che Chiamami.Online può, se richiesto da un organizzatore della riunione o webinar, effettuare e archiviare registrazioni dei meeting o webinar, e può rendere tali registrazioni disponibili per gli organizzatori ed altri partecipanti nella organizzazione dell'organizzatore. Una notifica visiva verrà inviata ai partecipanti che si connetteranno a una riunione o un webinar tramite la piattaforma web Chiamami.Online e verrà inviata una notifica audio ai partecipanti che effettuano la connessione solo telefonicamente. Un orgnizzatore può anche inviare una notifica audio ai partecipanti che hanno effettuato l'accesso alla piattaforma web, a condizione che non si possano ricevere tali notifiche se le si disabilita nelle impostazioni dell'account, quindi si prega di controllare prima di ogni riunione o webinar se si desidera ricevere le notifiche. Se non vuoi essere registrato, puoi scegliere di lasciare la riunione o il webinar.
+Per i partecipanti: Si prega di notare che per qualsiasi meeting o webinar a cui partecipi, le registrazioni possono essere abilitate da un organizzatore del meeting o del webinar. Iscrivendoti ai servizi di Riunioni.Online o comunque utilizzandoli in qualsiasi modo, incluso, senza limitazioni, partecipando a qualsiasi meeting o webinar, l'utente riconosce espressamente che Riunioni.Online può, se richiesto da un organizzatore della riunione o webinar, effettuare e archiviare registrazioni dei meeting o webinar, e può rendere tali registrazioni disponibili per gli organizzatori ed altri partecipanti nella organizzazione dell'organizzatore. Una notifica visiva verrà inviata ai partecipanti che si connetteranno a una riunione o un webinar tramite la piattaforma web Riunioni.Online e verrà inviata una notifica audio ai partecipanti che effettuano la connessione solo telefonicamente. Un orgnizzatore può anche inviare una notifica audio ai partecipanti che hanno effettuato l'accesso alla piattaforma web, a condizione che non si possano ricevere tali notifiche se le si disabilita nelle impostazioni dell'account, quindi si prega di controllare prima di ogni riunione o webinar se si desidera ricevere le notifiche. Se non vuoi essere registrato, puoi scegliere di lasciare la riunione o il webinar.
 
 
 ####Contatti

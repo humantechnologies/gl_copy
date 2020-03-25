@@ -1,12 +1,12 @@
 Updated: January 24, 2019
 
-Chiamami.Online is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively, "Products"). This policy covers the Chiamami.Online website, mobile applications, and desktop clients and is applicable worldwide.
+Riunioni.Online is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively, "Products"). This policy covers the Riunioni.Online website, mobile applications, and desktop clients and is applicable worldwide.
 
 This policy outlines our handling practices and how we collect and use the Personal Data you provide during your online and offline interactions with us. As used in this Privacy Policy, “Personal Data” means any information that can be used to individually identify a person, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, title, and other personally identifiable information.
 
 If you reside in the European Union (“EU”), United Kingdom, Lichtenstein, Norway, Iceland or Switzerland, you may have additional rights with respect to your Personal Data, as further outlined below. These rights may include rights under the EU’s General Data Protection Regulation (“GDPR”), if you are a resident of the EU, United Kingdom, Lichtenstein, Norway or Iceland.
 
-Chiamami.Online will be the Controller of your Personal Data that is provided, collected and/or processed pursuant to this Privacy Policy in order to, for example, respond to requests for information or service, conclude a business transaction, provision the service, or otherwise for Chiamami.Online’s business purposes. Chiamami.Online will be a Processor of data that is entered into the service when a Customer uses the Services (see “User-Generated Information”, below.). If you have any questions about whether any of foregoing applies to you, please contact us using the information set forth in the “Contact Us” section below.
+Riunioni.Online will be the Controller of your Personal Data that is provided, collected and/or processed pursuant to this Privacy Policy in order to, for example, respond to requests for information or service, conclude a business transaction, provision the service, or otherwise for Riunioni.Online’s business purposes. Riunioni.Online will be a Processor of data that is entered into the service when a Customer uses the Services (see “User-Generated Information”, below.). If you have any questions about whether any of foregoing applies to you, please contact us using the information set forth in the “Contact Us” section below.
 
 This policy may be updated from time to time for reasons such as operational practices or regulatory changes, so we recommend that you review our Privacy Policy when returning to our website. If we propose to make any material changes, we will notify you by means of a notice on this page prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
@@ -42,7 +42,7 @@ If you share a meeting link with another user who is not already in the meeting,
 
 #####Passive Collection
 
-Chiamami.Online and our third-party service providers automatically collect some information about you when you use our Products, using methods such as cookies and tracking technologies (further described below). Information automatically collected includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the website and/or Products.
+Riunioni.Online and our third-party service providers automatically collect some information about you when you use our Products, using methods such as cookies and tracking technologies (further described below). Information automatically collected includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the website and/or Products.
 
 In addition, when you use some of our Products, network information is transmitted back to us such as Product usage information. This information is transmitted back to us, so we can determine how users are interacting with our Products, to assist us with improving our Products, and to correct any problems that may occur.
 
@@ -81,8 +81,8 @@ Complying with our contractual and legal obligations, resolving disputes with us
 We process Personal Data when you visit our website to:
 
 To keep you up to date on the latest Product announcements, software updates, software upgrades, system enhancements, special offers, and other information
-To provide customer feedback and support (Chiamami.Online/informazioni)
-To provide and administer opt-in contests, sweepstakes or other marketing or promotional activities on the Chiamami.Online
+To provide customer feedback and support (Riunioni.Online/informazioni)
+To provide and administer opt-in contests, sweepstakes or other marketing or promotional activities on the Riunioni.Online
 Providing you with information and offers from us or third parties
 To the extent you choose to participate, to conduct questionnaires and surveys in order to provide better products and services to our customers and end users
 To personalize marketing communications and website content based on your preferences, such as in response to your request for specific information on products and services that may be of interest
@@ -95,7 +95,7 @@ If you choose to use our referral service to tell a friend about our products, y
 
 #####Choice
 
-You can choose whether to provide Personal Data to Chiamami.Online, but note that you may be unable to access certain options, offers, and services if they require Personal Data that you have not provided. You can sign-up, and therefore consent, to receive email or newsletter communications from us. If you would like to discontinue receiving these communications, you can update your preferences by using the “Unsubscribe” link found in such emails or by contacting us using the information in the “Contact Us” section of this policy.
+You can choose whether to provide Personal Data to Riunioni.Online, but note that you may be unable to access certain options, offers, and services if they require Personal Data that you have not provided. You can sign-up, and therefore consent, to receive email or newsletter communications from us. If you would like to discontinue receiving these communications, you can update your preferences by using the “Unsubscribe” link found in such emails or by contacting us using the information in the “Contact Us” section of this policy.
  
 
 #####Data Subject Rights
@@ -107,11 +107,11 @@ To make any of the following requests, contact us using the contact details refe
 Access: You can request more information about the Personal Data we hold about you. You can also request a copy of the Personal Data.
 Rectification: If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can also correct some of this information directly by logging into your service account. Please contact us as soon as possible upon noticing any such inaccuracy or incompleteness.
 Objection: You can contact us to let us know that you object to the collection or use of your Personal Data for certain purposes.
-Erasure: You can request that we erase some or all of your Personal Data from our systems. Data subjects who want their data deleted can do so by deactivating their account. Deactivation will delete all account usage and related information. If you are not a Chiamami.Online customer and would like your data deleted, please contact the data Controller directly about deleting information.
+Erasure: You can request that we erase some or all of your Personal Data from our systems. Data subjects who want their data deleted can do so by deactivating their account. Deactivation will delete all account usage and related information. If you are not a Riunioni.Online customer and would like your data deleted, please contact the data Controller directly about deleting information.
 Restriction of Processing: You can ask us to restrict further processing of your Personal Data.
 Portability: You have the right to ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another entity where technically feasible.
 Withdrawal of Consent: If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Products.
-Right to File Complaint: You have the right to lodge a complaint about Chiamami.Online’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State.
+Right to File Complaint: You have the right to lodge a complaint about Riunioni.Online’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State.
 Under certain circumstances we will not be able to fulfill your request, such as if it interferes with our regulatory obligations, affects legal matters, we cannot verify your identity, or it involves disproportionate cost or effort, but in any event we will respond to your request within a reasonable timeframe and provide you an explanation. In order to make such a request of us, please contact our Privacy Team at info@tecnologie-umanistiche.it.
 
 #####Data Retention
@@ -120,7 +120,7 @@ How long we retain your Personal Data depends on the type of data and the purpos
 
 #####Cookies and Tracking Technologies
 
-Chiamami.Online and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and gather information about our user base, such as location information based on IP addresses. Users can control the use of cookies at the individual browser level. For more information regarding cookies or similar technologies, please review our Cookie Policy.
+Riunioni.Online and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and gather information about our user base, such as location information based on IP addresses. Users can control the use of cookies at the individual browser level. For more information regarding cookies or similar technologies, please review our Cookie Policy.
 
 Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. Our Products do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Products and after you leave our properties.
 
@@ -136,19 +136,19 @@ We collect information about where you are located when you are using our Produc
 
 We do not sell or rent your Personal Data to third parties for any purposes, including marketing.
 
-We share Personal Data within Chiamami.Online and its affiliated companies, and with third party service providers for purposes of data processing or storage.
+We share Personal Data within Riunioni.Online and its affiliated companies, and with third party service providers for purposes of data processing or storage.
 
 We also share Personal Data with business partners, service vendors and/or authorized third-party agents or contractors in order to provide requested Products or transactions, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support. We provide these third parties with Personal to complete/utilize the requested Product or transaction.
 
 In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Data as set forth in this policy. As required by law, we may respond to subpoenas, court orders, or similar legal process by disclosing your Personal Data and other related information, if necessary. We also may use Personal Data and other related information to establish or exercise our legal rights or defend against legal claims.
 
-We collect and possibly share Personal Data and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Chiamami.Online's terms of service, or as otherwise required by law.
+We collect and possibly share Personal Data and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Riunioni.Online's terms of service, or as otherwise required by law.
 
-While navigating Chiamami.Online's website or Products, you may be directed to content or functionality that is hosted by a third-party. When information is collected on behalf of Chiamami.Online exclusively, Chiamami.Online's Privacy Policy will be referenced and will govern how your information is used. For other, non-Chiamami.Online sites or services, the site/service owner's privacy policy will be referenced. You should review such third party’s privacy and security policies prior to use.
+While navigating Riunioni.Online's website or Products, you may be directed to content or functionality that is hosted by a third-party. When information is collected on behalf of Riunioni.Online exclusively, Riunioni.Online's Privacy Policy will be referenced and will govern how your information is used. For other, non-Riunioni.Online sites or services, the site/service owner's privacy policy will be referenced. You should review such third party’s privacy and security policies prior to use.
 
 #####Security of your Personal Data
 
-Chiamami.Online is committed to protecting the Personal Data you share with us. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Data from unauthorized access, use or disclosure. When we transfer credit card information over the Internet, we protect it using Transport Layer Security (TLS) encryption technology.
+Riunioni.Online is committed to protecting the Personal Data you share with us. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Data from unauthorized access, use or disclosure. When we transfer credit card information over the Internet, we protect it using Transport Layer Security (TLS) encryption technology.
 
 We recommend you take every precaution in protecting your Personal Data when you are on the Internet. For example, change your passwords often, use a combination of upper and lower-case letters, numbers, and symbols when creating passwords, and make sure you use a secure browser. If you have any questions about the security of your Personal Data, you can contact us at info@tecnologie-umanistiche.it.
 
@@ -158,35 +158,35 @@ Our websites and services may provide links to other third-party websites and se
 
 #####Newsgroups/forums
 
-If you participate in a Chiamami.Online discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Chiamami.Online, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Chiamami.Online.
+If you participate in a Riunioni.Online discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Riunioni.Online, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Riunioni.Online.
 
 #####Meeting Recordings
 
 If you use a feature of the Products that allows for Recordings (defined below), we collect information from you that you provide in connection with such use and through such Recordings, to the extent you provide it to us. This information may include Personal Data, if you provide us with Personal Data.
 
-For hosts -- By installing or using Chiamami.Online Rooms software or any other Chiamami.Online software, tool or feature that allows for meeting or Webinar recording (each, a “Recording”), you acknowledge and agree that you and your company are responsible for (i) clearly notifying all individuals (whether or not they are Chiamami.Online users) who are present in a meeting or Webinar (whether in-person or remotely) (each, an “Attendee”) for which you make a Recording that such meeting or Webinar might be recorded, and (ii) obtaining any consent necessary for such a recording as required by applicable laws, rules and regulations, including without limitation data privacy laws. By making a Recording of any meeting or Webinar using any Chiamami.Online Products, you and your company represent and warrant that (a) you have received legally sufficient consent from all Attendees for such recording prior to starting a Recording, (b) you will only make, use, store and otherwise process such Recording in accordance with all applicable laws, rules and regulations, including data protection laws and (c) you will store and otherwise restrict access to such Recordings using appropriate technical and organizational safeguards. Any person and/or entity who makes a Recording of a meeting or webinar shall be the data controller of that Recording, and Chiamami.Online will be the data processor with respect to the Recording.
+For hosts -- By installing or using Riunioni.Online Rooms software or any other Riunioni.Online software, tool or feature that allows for meeting or Webinar recording (each, a “Recording”), you acknowledge and agree that you and your company are responsible for (i) clearly notifying all individuals (whether or not they are Riunioni.Online users) who are present in a meeting or Webinar (whether in-person or remotely) (each, an “Attendee”) for which you make a Recording that such meeting or Webinar might be recorded, and (ii) obtaining any consent necessary for such a recording as required by applicable laws, rules and regulations, including without limitation data privacy laws. By making a Recording of any meeting or Webinar using any Riunioni.Online Products, you and your company represent and warrant that (a) you have received legally sufficient consent from all Attendees for such recording prior to starting a Recording, (b) you will only make, use, store and otherwise process such Recording in accordance with all applicable laws, rules and regulations, including data protection laws and (c) you will store and otherwise restrict access to such Recordings using appropriate technical and organizational safeguards. Any person and/or entity who makes a Recording of a meeting or webinar shall be the data controller of that Recording, and Riunioni.Online will be the data processor with respect to the Recording.
 
-For attendees – Please be advised that for any meetings or Webinars you attend, Recordings can be enabled by a meeting or webinar host. By signing up for Chiamami.Online’s services or otherwise using them in any way, including without limitation by attending any Chiamami.Online meeting or webinar, you expressly acknowledge that Chiamami.Online may, if instructed by a meeting host, make and store Recordings for Chiamami.Online meetings or webinars, and may make such recordings available to hosts and other Attendees at the direction of the host. A visual notification will be sent to Attendees who connect to a meeting or webinar via the Chiamami.Online web-based platform, and an audio notification will be sent to Attendees who dial-in by telephone only. A host may also send an audio notification to Attendees who are logged into the web platform, provided that you may not receive such notifications if you disable them in your account settings, so please check before each meeting or webinar if you want to receive the notifications. If you do not want to be recorded, you can choose to leave the meeting or webinar.
+For attendees – Please be advised that for any meetings or Webinars you attend, Recordings can be enabled by a meeting or webinar host. By signing up for Riunioni.Online’s services or otherwise using them in any way, including without limitation by attending any Riunioni.Online meeting or webinar, you expressly acknowledge that Riunioni.Online may, if instructed by a meeting host, make and store Recordings for Riunioni.Online meetings or webinars, and may make such recordings available to hosts and other Attendees at the direction of the host. A visual notification will be sent to Attendees who connect to a meeting or webinar via the Riunioni.Online web-based platform, and an audio notification will be sent to Attendees who dial-in by telephone only. A host may also send an audio notification to Attendees who are logged into the web platform, provided that you may not receive such notifications if you disable them in your account settings, so please check before each meeting or webinar if you want to receive the notifications. If you do not want to be recorded, you can choose to leave the meeting or webinar.
 
 #####Transfer and Storage of Personal Data
 
-Our Products are hosted and operated in Italy through Chiamami.Online and its service providers. We may transfer your Personal Data to any Chiamami.Online affiliate worldwide, or to third parties acting on our behalf for the purposes of processing or storage. By using any of our Products or providing any Personal Data for any of the purposes stated above, you consent to the transfer and storage of your Personal Data, whether provided by you or obtained through a third party.
+Our Products are hosted and operated in Italy through Riunioni.Online and its service providers. We may transfer your Personal Data to any Riunioni.Online affiliate worldwide, or to third parties acting on our behalf for the purposes of processing or storage. By using any of our Products or providing any Personal Data for any of the purposes stated above, you consent to the transfer and storage of your Personal Data, whether provided by you or obtained through a third party.
 
-In certain situations, Chiamami.Online may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In certain situations, Riunioni.Online may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact info@tecnologie-umanistiche.it
 
 
 Standard Contractual Clauses
 
-In certain cases, Chiamami.Online will transfer Personal Data from the EU in accordance with the European Commission-approved Standard Contractual Clauses, a copy of which can be obtained at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087.
+In certain cases, Riunioni.Online will transfer Personal Data from the EU in accordance with the European Commission-approved Standard Contractual Clauses, a copy of which can be obtained at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087.
 
 
 ####Contact Us
 
 To address your individual rights or if you have any privacy-related questions or comments related to this privacy policy, please send an email to info@tecnologie-umanistiche.it . You can also contact us by writing to this address:
 
-Chiamami.Online: https://chiamami.online, un sito di HT Tecnologie Umanistiche
+Riunioni.Online: https://Riunioni.online, un sito di HT Tecnologie Umanistiche
 
 Attention: Data Privacy Officer
 

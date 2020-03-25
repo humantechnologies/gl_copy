@@ -1,10 +1,10 @@
-Chiamami.Online è il primo sistema di web conferencing italiano particolarmente orientato al supporto dell' e-learning.
+Riunioni.Online è il primo sistema di web conferencing italiano particolarmente orientato al supporto dell' e-learning.
 
 Crediamo che Studenti e Docenti debbano avere accesso a sistemi di alta qualità per le loro lezioni personali e di gruppo, ovunque si trovino, in Italia e nel mondo.
 
-Chiamami.Online nasce dalla pluriennale esperienza di HT Tecnologie Umanistiche nello sviluppo di sistemi a supporto della Didattica e della Formazione.
+Riunioni.Online nasce dalla pluriennale esperienza di HT Tecnologie Umanistiche nello sviluppo di sistemi a supporto della Didattica e della Formazione.
 
-Chiamami.Online è uno strumento che consente a più persone fisicamente distanti di comunicare tra loro in tempo reale sia in voce che in video in alta qualità, ricevendo la sensazione di trovarsi nella stessa stanza con i propri interlocutori, rendendo i meeting e le lezioni più confortevoli e naturali come gli incontri faccia a faccia. Si tratta di un servizio cloud-based disponibile su Internet e accessibile attraverso un portale web dedicato.
+Riunioni.Online è uno strumento che consente a più persone fisicamente distanti di comunicare tra loro in tempo reale sia in voce che in video in alta qualità, ricevendo la sensazione di trovarsi nella stessa stanza con i propri interlocutori, rendendo i meeting e le lezioni più confortevoli e naturali come gli incontri faccia a faccia. Si tratta di un servizio cloud-based disponibile su Internet e accessibile attraverso un portale web dedicato.
 
 Studenti e Docenti si incontrano nelle nostre aule virtuali, accessibili per gli utenti registrati tramite un semplice link che può essere scambiato via mail o altri sistemi di condivisione.
 
@@ -12,7 +12,7 @@ Le aule virtuali consento il collegamento dei partecipanti in Audio e Video.
 
 Le aule virtuali sono dotate di una Lavagna. I controlli della lavagna consentono di annotare parti chiave della presentazione.
 
-Puoi caricare inoltre qualsiasi presentazione in formato PDF (consigliato) o documento di MS Office. CHiamami.Online mantiene tutti i partecipanti alla lezione in sincronia con la diapositiva, lo zoom, il pan, le annotazioni e il puntatore del mouse correnti.
+Puoi caricare inoltre qualsiasi presentazione in formato PDF (consigliato) o documento di MS Office. Riunioni.Online mantiene tutti i partecipanti alla lezione in sincronia con la diapositiva, lo zoom, il pan, le annotazioni e il puntatore del mouse correnti.
 
 È possibile condividere il desktop a tutti gli utenti per vedere (richiede la versione più recente di Java solo per relatore).
 
@@ -24,8 +24,8 @@ Puoi interagire con gli studenti attraverso chat pubbliche e private e sondare g
 
 Puoi inserire sottotitoli dal vivo per gli studenti. Queste didascalie verranno in seguito visualizzate come sottotitoli nelle registrazioni.
 
-Chiamami.Online può registrare le tue sessioni per la successiva riproduzione da parte degli studenti.
+Riunioni.Online può registrare le tue sessioni per la successiva riproduzione da parte degli studenti.
 
 Gli studenti con disabilità visive possono utilizzare lo screen reader JAWS per interagire con il sito.
 
-Inizia oggi a studiare ed insegnare con Chiamami.Online 
+Inizia oggi a studiare ed insegnare con Riunioni.Online 

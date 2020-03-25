@@ -20,7 +20,7 @@ a loro volta si possono suddividere nelle seguenti tipologie:
 
 ##### Cookie Tecnici
 
-Questi cookie sono essenziali per aiutarti a utilizzare le funzionalità e i servizi che offriamo sul sito Web Chiamami.Online. Senza questi cookie, i servizi che si desidera utilizzare non possono essere forniti. Questi cookie non raccolgono informazioni su di te che potrebbero essere utilizzate per identificarti e non controllano o ricordano dove sei stato su Internet. Possono essere suddivisi in cookie di navigazione o di sessione, che garantiscono la normale navigazione e fruizione del sito web (permettendo, ad esempio, di autenticarsi per accedere ad aree riservate).
+Questi cookie sono essenziali per aiutarti a utilizzare le funzionalità e i servizi che offriamo sul sito Web Riunioni.Online. Senza questi cookie, i servizi che si desidera utilizzare non possono essere forniti. Questi cookie non raccolgono informazioni su di te che potrebbero essere utilizzate per identificarti e non controllano o ricordano dove sei stato su Internet. Possono essere suddivisi in cookie di navigazione o di sessione, che garantiscono la normale navigazione e fruizione del sito web (permettendo, ad esempio, di autenticarsi per accedere ad aree riservate).
 
 ##### Cookie Funzionali
 
