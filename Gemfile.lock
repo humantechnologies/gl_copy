@@ -183,7 +183,7 @@ GEM
     popper_js (1.14.3)
     powerpack (0.1.2)
     public_suffix (3.0.3)
-    puma (3.11.4)
+    puma (3.12.4)
     pyu-ruby-sasl (0.0.3.3)
     rack (2.0.6)
     rack-test (0.6.3)
@@ -349,7 +349,7 @@ DEPENDENCIES
   omniauth-microsoft-office365 (~> 0.0.7)
   omniauth-twitter
   pg (~> 0.18)
-  puma (~> 3.0)
+  puma (~> 3.12)
   rails (~> 5.0.7)
   rails-controller-testing
   redcarpet
